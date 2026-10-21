@@ -1,0 +1,570 @@
+[
+  {
+    "id": 901,
+    "date": "2020-02-22T01:05:58",
+    "date_gmt": "2020-02-22T00:05:58",
+    "guid": {
+      "rendered": "https://www.genesislectures.com/?post_type=uncodeblock&#038;p=901"
+    },
+    "modified": "2020-02-22T01:11:55",
+    "modified_gmt": "2020-02-22T00:11:55",
+    "slug": "venue",
+    "status": "publish",
+    "type": "uncodeblock",
+    "link": "https://www.genesislectures.com/?uncodeblock=venue",
+    "title": {
+      "rendered": "Venue"
+    },
+    "content": {
+      "rendered": "<p>[vc_row unlock_row_content=&#8221;yes&#8221; row_height_percent=&#8221;100&#8243; override_padding=&#8221;yes&#8221; h_padding=&#8221;0&#8243; top_padding=&#8221;0&#8243; bottom_padding=&#8221;0&#8243; back_color=&#8221;color-nhtu&#8221; overlay_alpha=&#8221;50&#8243; gutter_size=&#8221;3&#8243; column_width_percent=&#8221;100&#8243; shift_y=&#8221;0&#8243; z_index=&#8221;0&#8243;][vc_column column_width_percent=&#8221;100&#8243; style=&#8221;dark&#8221; overlay_alpha=&#8221;50&#8243; gutter_size=&#8221;3&#8243; medium_width=&#8221;0&#8243; mobile_width=&#8221;0&#8243; shift_x=&#8221;0&#8243; shift_y=&#8221;0&#8243; shift_y_down=&#8221;0&#8243; z_index=&#8221;0&#8243; width=&#8221;1/1&#8243;][vc_row_inner][vc_column_inner column_width_percent=&#8221;100&#8243; position_vertical=&#8221;middle&#8221; override_padding=&#8221;yes&#8221; column_padding=&#8221;4&#8243; gutter_size=&#8221;3&#8243; overlay_alpha=&#8221;50&#8243; medium_width=&#8221;0&#8243; mobile_width=&#8221;0&#8243; shift_x=&#8221;1&#8243; shift_y=&#8221;0&#8243; shift_y_down=&#8221;0&#8243; z_index=&#8221;0&#8243; width=&#8221;1/3&#8243;][vc_custom_heading heading_semantic=&#8221;h1&#8243; text_size=&#8221;h1&#8243;]Join us![/vc_custom_heading][vc_column_text]All the lectures are to be held in Polo Porta Nuova&#8217;s PN10 classroom. You can find the main entrance of the pole in via Nelli if you arrive walking or by train (at 500m there is <a href=\"https://goo.gl/maps/zY8G7nZtULx\">Pisa S. Rossore train station</a>), but you can enter as well from the secondary entrance <a href=\"https://goo.gl/maps/Lrrtu7RBSX22\">here</a>, near the parking area in via Leonardo da Vinci and via Padre Fedi. Lots of free parking in via Tino di Camaino, <a href=\"https://goo.gl/maps/4FwWJZ9hFtq\">here</a>.[/vc_column_text][vc_button border_width=&#8221;0&#8243; link=&#8221;url:https%3A%2F%2Fgoo.gl%2Fmaps%2FKPbkehSYCVr||target:%20_blank|&#8221;]GET DIRECTIONS[/vc_button][/vc_column_inner][vc_column_inner width=&#8221;2/3&#8243;][vc_raw_html]JTNDaWZyYW1lJTIwc3JjJTNEJTIyaHR0cHMlM0ElMkYlMkZzbmF6enltYXBzLmNvbSUyRmVtYmVkJTJGMTE2NDM0JTIyJTIwd2lkdGglM0QlMjIxMDAlMjUlMjIlMjBoZWlnaHQlM0QlMjI4NTBweCUyMiUyMHN0eWxlJTNEJTIyYm9yZGVyJTNBbm9uZSUzQiUyMiUzRSUzQyUyRmlmcmFtZSUzRQ==[/vc_raw_html][/vc_column_inner][/vc_row_inner][/vc_column][/vc_row]</p>\n",
+      "protected": false
+    },
+    "author": 1,
+    "parent": 0,
+    "template": "",
+    "_links": {
+      "self": [
+        {
+          "href": "https://www.genesislectures.com/wp-json/wp/v2/uncodeblock/901"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://www.genesislectures.com/wp-json/wp/v2/uncodeblock"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://www.genesislectures.com/wp-json/wp/v2/types/uncodeblock"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://www.genesislectures.com/wp-json/wp/v2/users/1"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 11,
+          "href": "https://www.genesislectures.com/wp-json/wp/v2/uncodeblock/901/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 914,
+          "href": "https://www.genesislectures.com/wp-json/wp/v2/uncodeblock/901/revisions/914"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://www.genesislectures.com/wp-json/wp/v2/media?parent=901"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 352,
+    "date": "2018-11-28T10:29:02",
+    "date_gmt": "2018-11-28T09:29:02",
+    "guid": {
+      "rendered": "https://www.genesislectures.com/?post_type=uncodeblock&#038;p=352"
+    },
+    "modified": "2018-11-28T10:47:03",
+    "modified_gmt": "2018-11-28T09:47:03",
+    "slug": "search-results",
+    "status": "publish",
+    "type": "uncodeblock",
+    "link": "https://www.genesislectures.com/?uncodeblock=search-results",
+    "title": {
+      "rendered": "Search results"
+    },
+    "content": {
+      "rendered": "<p>[vc_row row_height_percent=&#8221;0&#8243; override_padding=&#8221;yes&#8221; h_padding=&#8221;2&#8243; top_padding=&#8221;2&#8243; bottom_padding=&#8221;5&#8243; overlay_alpha=&#8221;50&#8243; gutter_size=&#8221;3&#8243; column_width_percent=&#8221;100&#8243; shift_y=&#8221;0&#8243; z_index=&#8221;0&#8243;][vc_column width=&#8221;2/3&#8243;][uncode_index el_id=&#8221;index-163021&#8243; loop=&#8221;order_by:date|post_type:post,page&#8221; auto_query=&#8221;yes&#8221; gutter_size=&#8221;3&#8243; post_items=&#8221;title,date,text|full|300,link|link&#8221; page_items=&#8221;title,text|full|300&#8243; screen_lg=&#8221;1000&#8243; screen_md=&#8221;600&#8243; screen_sm=&#8221;480&#8243; single_width=&#8221;12&#8243; single_overlay_opacity=&#8221;50&#8243; single_padding=&#8221;2&#8243; single_title_transform=&#8221;uppercase&#8221; single_title_dimension=&#8221;h3&#8243; single_title_family=&#8221;font-168218&#8243;][/vc_column][vc_column column_width_percent=&#8221;100&#8243; overlay_alpha=&#8221;50&#8243; gutter_size=&#8221;3&#8243; medium_width=&#8221;0&#8243; mobile_width=&#8221;0&#8243; shift_x=&#8221;0&#8243; shift_y=&#8221;2&#8243; shift_y_down=&#8221;0&#8243; z_index=&#8221;0&#8243; sticky=&#8221;yes&#8221; width=&#8221;1/3&#8243;][vc_custom_heading heading_semantic=&#8221;h5&#8243; text_size=&#8221;h5&#8243; text_font=&#8221;font-168218&#8243; text_transform=&#8221;uppercase&#8221;]search again[/vc_custom_heading][vc_wp_search][/vc_column][/vc_row]</p>\n",
+      "protected": false
+    },
+    "author": 1,
+    "parent": 0,
+    "template": "",
+    "_links": {
+      "self": [
+        {
+          "href": "https://www.genesislectures.com/wp-json/wp/v2/uncodeblock/352"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://www.genesislectures.com/wp-json/wp/v2/uncodeblock"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://www.genesislectures.com/wp-json/wp/v2/types/uncodeblock"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://www.genesislectures.com/wp-json/wp/v2/users/1"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 20,
+          "href": "https://www.genesislectures.com/wp-json/wp/v2/uncodeblock/352/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 385,
+          "href": "https://www.genesislectures.com/wp-json/wp/v2/uncodeblock/352/revisions/385"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://www.genesislectures.com/wp-json/wp/v2/media?parent=352"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 333,
+    "date": "2018-11-28T10:06:53",
+    "date_gmt": "2018-11-28T09:06:53",
+    "guid": {
+      "rendered": "https://www.genesislectures.com/?post_type=uncodeblock&#038;p=333"
+    },
+    "modified": "2018-11-28T10:20:14",
+    "modified_gmt": "2018-11-28T09:20:14",
+    "slug": "404-2",
+    "status": "publish",
+    "type": "uncodeblock",
+    "link": "https://www.genesislectures.com/?uncodeblock=404-2",
+    "title": {
+      "rendered": "404"
+    },
+    "content": {
+      "rendered": "<p>[vc_row row_height_percent=&#8221;0&#8243; back_color=&#8221;color-zsdf&#8221; overlay_alpha=&#8221;50&#8243; gutter_size=&#8221;3&#8243; column_width_percent=&#8221;100&#8243; medium_visibility=&#8221;yes&#8221; mobile_visibility=&#8221;yes&#8221; shift_y=&#8221;0&#8243; z_index=&#8221;0&#8243;][vc_column column_width_percent=&#8221;100&#8243; position_vertical=&#8221;middle&#8221; align_horizontal=&#8221;align_center&#8221; overlay_alpha=&#8221;50&#8243; gutter_size=&#8221;3&#8243; medium_width=&#8221;0&#8243; mobile_width=&#8221;0&#8243; shift_x=&#8221;0&#8243; shift_y=&#8221;0&#8243; shift_y_down=&#8221;0&#8243; z_index=&#8221;0&#8243; width=&#8221;1/1&#8243;][vc_single_image media=&#8221;28&#8243; media_width_use_pixel=&#8221;yes&#8221; alignment=&#8221;center&#8221; media_width_pixel=&#8221;400&#8243;][vc_row_inner row_inner_height_percent=&#8221;0&#8243; overlay_alpha=&#8221;50&#8243; gutter_size=&#8221;3&#8243; mobile_visibility=&#8221;yes&#8221; shift_y=&#8221;-4&#8243; z_index=&#8221;0&#8243;][vc_column_inner column_width_percent=&#8221;100&#8243; position_vertical=&#8221;middle&#8221; align_horizontal=&#8221;align_center&#8221; gutter_size=&#8221;3&#8243; overlay_alpha=&#8221;50&#8243; medium_width=&#8221;0&#8243; mobile_width=&#8221;0&#8243; shift_x=&#8221;0&#8243; shift_y=&#8221;-5&#8243; shift_y_down=&#8221;0&#8243; z_index=&#8221;0&#8243; width=&#8221;1/4&#8243;][/vc_column_inner][vc_column_inner column_width_percent=&#8221;100&#8243; align_horizontal=&#8221;align_center&#8221; gutter_size=&#8221;3&#8243; overlay_alpha=&#8221;50&#8243; medium_width=&#8221;0&#8243; mobile_width=&#8221;0&#8243; shift_x=&#8221;0&#8243; shift_y=&#8221;-5&#8243; shift_y_down=&#8221;0&#8243; z_index=&#8221;0&#8243; width=&#8221;1/2&#8243;][vc_custom_heading heading_semantic=&#8221;h1&#8243; text_size=&#8221;h1&#8243;]Oops![/vc_custom_heading][vc_column_text]Page not found. Please continue to our <a href=\"https://www.genesislectures.com/\">home page</a> or search with the box below.[/vc_column_text][vc_wp_search][/vc_column_inner][vc_column_inner width=&#8221;1/4&#8243;][/vc_column_inner][/vc_row_inner][/vc_column][/vc_row][vc_row row_height_percent=&#8221;0&#8243; back_color=&#8221;color-zsdf&#8221; overlay_alpha=&#8221;50&#8243; gutter_size=&#8221;3&#8243; column_width_percent=&#8221;100&#8243; desktop_visibility=&#8221;yes&#8221; shift_y=&#8221;0&#8243; z_index=&#8221;0&#8243;][vc_column column_width_percent=&#8221;100&#8243; position_vertical=&#8221;middle&#8221; align_horizontal=&#8221;align_center&#8221; overlay_alpha=&#8221;50&#8243; gutter_size=&#8221;3&#8243; medium_width=&#8221;0&#8243; mobile_width=&#8221;0&#8243; shift_x=&#8221;0&#8243; shift_y=&#8221;0&#8243; shift_y_down=&#8221;0&#8243; z_index=&#8221;0&#8243; width=&#8221;1/4&#8243;][/vc_column][vc_column width=&#8221;1/2&#8243;][vc_single_image media=&#8221;28&#8243; media_width_use_pixel=&#8221;yes&#8221; alignment=&#8221;center&#8221; media_width_pixel=&#8221;400&#8243;][vc_custom_heading heading_semantic=&#8221;h1&#8243; text_size=&#8221;h1&#8243;]Oops![/vc_custom_heading][vc_column_text]Page not found. Please continue to our <a href=\"https://www.genesislectures.com/\">home page</a> or search with the box below.[/vc_column_text][vc_wp_search][/vc_column][vc_column width=&#8221;1/4&#8243;][/vc_column][/vc_row]</p>\n",
+      "protected": false
+    },
+    "author": 1,
+    "parent": 0,
+    "template": "",
+    "_links": {
+      "self": [
+        {
+          "href": "https://www.genesislectures.com/wp-json/wp/v2/uncodeblock/333"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://www.genesislectures.com/wp-json/wp/v2/uncodeblock"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://www.genesislectures.com/wp-json/wp/v2/types/uncodeblock"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://www.genesislectures.com/wp-json/wp/v2/users/1"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 16,
+          "href": "https://www.genesislectures.com/wp-json/wp/v2/uncodeblock/333/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 349,
+          "href": "https://www.genesislectures.com/wp-json/wp/v2/uncodeblock/333/revisions/349"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://www.genesislectures.com/wp-json/wp/v2/media?parent=333"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 290,
+    "date": "2018-11-27T22:25:23",
+    "date_gmt": "2018-11-27T22:25:23",
+    "guid": {
+      "rendered": "https://www.genesislectures.com/?post_type=uncodeblock&#038;p=290"
+    },
+    "modified": "2020-02-21T18:28:54",
+    "modified_gmt": "2020-02-21T17:28:54",
+    "slug": "archivio-articoli",
+    "status": "publish",
+    "type": "uncodeblock",
+    "link": "https://www.genesislectures.com/?uncodeblock=archivio-articoli",
+    "title": {
+      "rendered": "Archivio Articoli"
+    },
+    "content": {
+      "rendered": "<p>[vc_row unlock_row_content=&#8221;yes&#8221; row_height_percent=&#8221;0&#8243; override_padding=&#8221;yes&#8221; h_padding=&#8221;2&#8243; top_padding=&#8221;2&#8243; bottom_padding=&#8221;5&#8243; overlay_alpha=&#8221;50&#8243; gutter_size=&#8221;3&#8243; column_width_percent=&#8221;100&#8243; shift_y=&#8221;0&#8243; z_index=&#8221;0&#8243;][vc_column column_width_percent=&#8221;100&#8243; position_vertical=&#8221;middle&#8221; align_horizontal=&#8221;align_center&#8221; overlay_alpha=&#8221;50&#8243; gutter_size=&#8221;3&#8243; medium_width=&#8221;0&#8243; mobile_width=&#8221;0&#8243; shift_x=&#8221;0&#8243; shift_y=&#8221;0&#8243; shift_y_down=&#8221;0&#8243; z_index=&#8221;0&#8243; width=&#8221;1/1&#8243;][uncode_index el_id=&#8221;index-181098&#8243; auto_query=&#8221;yes&#8221; style_preset=&#8221;metro&#8221; filtering=&#8221;yes&#8221; filter_style=&#8221;dark&#8221; filtering_full_width=&#8221;yes&#8221; filter_all_opposite=&#8221;yes&#8221; filtering_uppercase=&#8221;yes&#8221; gutter_size=&#8221;3&#8243; post_items=&#8221;title,media|featured|onpost|original&#8221; screen_lg=&#8221;1000&#8243; screen_md=&#8221;600&#8243; screen_sm=&#8221;480&#8243; single_text=&#8221;overlay&#8221; single_width=&#8221;3&#8243; single_height=&#8221;3&#8243; single_overlay_color=&#8221;accent&#8221; single_overlay_opacity=&#8221;100&#8243; single_text_visible=&#8221;yes&#8221; single_text_anim=&#8221;no&#8221; single_image_anim=&#8221;no&#8221; single_v_position=&#8221;bottom&#8221; single_padding=&#8221;2&#8243; single_title_transform=&#8221;uppercase&#8221; single_title_dimension=&#8221;h2&#8243; single_title_semantic=&#8221;h4&#8243; single_title_weight=&#8221;700&#8243; single_title_space=&#8221;fontspace-005&#8243; single_shadow=&#8221;yes&#8221; shadow_weight=&#8221;std&#8221; single_border=&#8221;yes&#8221;][/vc_column][/vc_row]</p>\n",
+      "protected": false
+    },
+    "author": 1,
+    "parent": 0,
+    "template": "",
+    "_links": {
+      "self": [
+        {
+          "href": "https://www.genesislectures.com/wp-json/wp/v2/uncodeblock/290"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://www.genesislectures.com/wp-json/wp/v2/uncodeblock"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://www.genesislectures.com/wp-json/wp/v2/types/uncodeblock"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://www.genesislectures.com/wp-json/wp/v2/users/1"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 7,
+          "href": "https://www.genesislectures.com/wp-json/wp/v2/uncodeblock/290/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 891,
+          "href": "https://www.genesislectures.com/wp-json/wp/v2/uncodeblock/290/revisions/891"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://www.genesislectures.com/wp-json/wp/v2/media?parent=290"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 135,
+    "date": "2018-11-27T00:06:21",
+    "date_gmt": "2018-11-27T00:06:21",
+    "guid": {
+      "rendered": "https://www.genesislectures.com/?post_type=uncodeblock&#038;p=135"
+    },
+    "modified": "2019-02-14T09:40:51",
+    "modified_gmt": "2019-02-14T08:40:51",
+    "slug": "footer-boxes-2",
+    "status": "publish",
+    "type": "uncodeblock",
+    "link": "https://www.genesislectures.com/?uncodeblock=footer-boxes-2",
+    "title": {
+      "rendered": "Footer boxes"
+    },
+    "content": {
+      "rendered": "<p>[vc_row unlock_row_content=&#8221;yes&#8221; row_height_percent=&#8221;50&#8243; overlay_alpha=&#8221;50&#8243; equal_height=&#8221;yes&#8221; gutter_size=&#8221;3&#8243; column_width_percent=&#8221;100&#8243; shift_y=&#8221;0&#8243; z_index=&#8221;0&#8243;][vc_column column_width_percent=&#8221;100&#8243; override_padding=&#8221;yes&#8221; column_padding=&#8221;5&#8243; back_color=&#8221;color-dfgh&#8221; overlay_alpha=&#8221;50&#8243; gutter_size=&#8221;3&#8243; medium_width=&#8221;0&#8243; mobile_width=&#8221;0&#8243; shift_x=&#8221;0&#8243; shift_y=&#8221;0&#8243; shift_y_down=&#8221;0&#8243; z_index=&#8221;0&#8243; width=&#8221;1/2&#8243;][vc_custom_heading heading_semantic=&#8221;h5&#8243; text_size=&#8221;h5&#8243; text_weight=&#8221;800&#8243;]<span class=\"font-168218\">VENUE</span>[/vc_custom_heading][vc_column_text]Genesis Lectures will be held in spring 2019 for their 4th edition at Polo Porta Nuova PN10, in via Marinello Nelli, Pisa. The conference room can host up to 120 people, but it gets full early: remember to get there early enough.[/vc_column_text][vc_button size=&#8221;btn-link&#8221; border_width=&#8221;0&#8243; icon_position=&#8221;right&#8221; link=&#8221;url:https%3A%2F%2Fgoo.gl%2Fmaps%2Fby2hi3P2Pkr||target:%20_blank|&#8221; icon=&#8221;fa fa-chevron-right&#8221;]GET DIRECTIONS[/vc_button][/vc_column][vc_column column_width_percent=&#8221;100&#8243; override_padding=&#8221;yes&#8221; column_padding=&#8221;5&#8243; back_color=&#8221;color-dfgh&#8221; overlay_alpha=&#8221;50&#8243; gutter_size=&#8221;3&#8243; medium_width=&#8221;0&#8243; mobile_width=&#8221;0&#8243; shift_x=&#8221;0&#8243; shift_y=&#8221;0&#8243; shift_y_down=&#8221;0&#8243; z_index=&#8221;0&#8243; width=&#8221;1/2&#8243;][vc_custom_heading heading_semantic=&#8221;h5&#8243; text_size=&#8221;h5&#8243; text_weight=&#8221;800&#8243;]<span class=\"font-168218\">ORGANIZERS</span>[/vc_custom_heading][vc_column_text]Genesis was conceived by the Organizing Committee with the support of the Scientific Committee, formed by teachers and students from the Pisa University’s Building Engineering and Architecture MD course.[/vc_column_text][vc_button size=&#8221;btn-link&#8221; border_width=&#8221;0&#8243; icon_position=&#8221;right&#8221; link=&#8221;url:https%3A%2F%2Fwww.genesislectures.com%2Fabout%2F|||&#8221; icon=&#8221;fa fa-chevron-right&#8221;]ABOUT US[/vc_button][/vc_column][/vc_row][vc_row unlock_row_content=&#8221;yes&#8221; row_height_percent=&#8221;50&#8243; override_padding=&#8221;yes&#8221; h_padding=&#8221;2&#8243; top_padding=&#8221;0&#8243; bottom_padding=&#8221;2&#8243; back_image=&#8221;170&#8243; parallax=&#8221;yes&#8221; overlay_alpha=&#8221;50&#8243; equal_height=&#8221;yes&#8221; gutter_size=&#8221;3&#8243; column_width_percent=&#8221;100&#8243; shift_y=&#8221;0&#8243; z_index=&#8221;0&#8243;][vc_column column_width_percent=&#8221;100&#8243; override_padding=&#8221;yes&#8221; column_padding=&#8221;5&#8243; overlay_alpha=&#8221;50&#8243; gutter_size=&#8221;3&#8243; border_color=&#8221;color-dfgh&#8221; medium_width=&#8221;0&#8243; mobile_width=&#8221;0&#8243; shift_x=&#8221;0&#8243; shift_y=&#8221;0&#8243; shift_y_down=&#8221;0&#8243; z_index=&#8221;0&#8243; width=&#8221;1/3&#8243;][vc_custom_heading heading_semantic=&#8221;h5&#8243; text_size=&#8221;h5&#8243; text_weight=&#8221;800&#8243;]<span class=\"font-168218\">2016</span>[/vc_custom_heading][vc_column_text]The very first edition of Genesis Lectures was held in three locations for four conferences: Polo Carmignani, Cinema Nuovo and Piagge Polo&#8217;s Aula Magna hosted <a href=\"https://www.genesislectures.com/2016/tony-fretton/\">Tony Fretton</a>, <a href=\"https://www.genesislectures.com/2016/guillermo-vazquez-consuegra/\">Guillermo Vázquez Consuegra</a>, <a href=\"https://www.genesislectures.com/2016/ricardo-bak-gordon/\">Ricardo Bak Gordon</a> and <a href=\"https://www.genesislectures.com/2016/dietmar-eberle/\">Dietmar Eberle</a>.[/vc_column_text][vc_button size=&#8221;btn-link&#8221; border_width=&#8221;0&#8243; icon_position=&#8221;right&#8221; link=&#8221;url:https%3A%2F%2Fwww.genesislectures.com%2F2016|||&#8221; icon=&#8221;fa fa-chevron-right&#8221;]SEE 2016&#8217;S GUESTS[/vc_button][/vc_column][vc_column column_width_percent=&#8221;100&#8243; override_padding=&#8221;yes&#8221; column_padding=&#8221;5&#8243; overlay_alpha=&#8221;50&#8243; gutter_size=&#8221;3&#8243; medium_width=&#8221;0&#8243; mobile_width=&#8221;0&#8243; shift_x=&#8221;0&#8243; shift_y=&#8221;0&#8243; shift_y_down=&#8221;0&#8243; z_index=&#8221;0&#8243; width=&#8221;1/3&#8243;][vc_custom_heading heading_semantic=&#8221;h5&#8243; text_size=&#8221;h5&#8243; text_weight=&#8221;800&#8243;]<span class=\"font-168218\">2017</span>[/vc_custom_heading][vc_column_text]Thanks to the great reception of the public, in 2017 we moved all the lectures in the great Aula Magna of Polo Carmignani, in the very hearth of Pisa&#8217;s city center. This year we had the pleasure to listen to <a href=\"https://www.genesislectures.com/2017/sou-fujimoto/\">Sou Fujimoto</a>, <a href=\"https://www.genesislectures.com/2017/tamassociati/\">TAMassociati</a> and <a href=\"https://www.genesislectures.com/2017/elisa-valero-ramos/\">Elisa Valero Ramos</a>.[/vc_column_text][vc_button size=&#8221;btn-link&#8221; border_width=&#8221;0&#8243; icon_position=&#8221;right&#8221; link=&#8221;url:https%3A%2F%2Fwww.genesislectures.com%2F2017|||&#8221; icon=&#8221;fa fa-chevron-right&#8221;]SEE 2017&#8217;S GUESTS[/vc_button][/vc_column][vc_column column_width_percent=&#8221;100&#8243; override_padding=&#8221;yes&#8221; column_padding=&#8221;5&#8243; overlay_alpha=&#8221;50&#8243; gutter_size=&#8221;3&#8243; medium_width=&#8221;0&#8243; mobile_width=&#8221;0&#8243; shift_x=&#8221;0&#8243; shift_y=&#8221;0&#8243; shift_y_down=&#8221;0&#8243; z_index=&#8221;0&#8243; width=&#8221;1/3&#8243;][vc_custom_heading heading_semantic=&#8221;h5&#8243; text_size=&#8221;h5&#8243; text_weight=&#8221;800&#8243;]<span class=\"font-168218\">2018</span>[/vc_custom_heading][vc_column_text]Again in the Aula Magna of Polo Carmignani, the third edition continue its precedessors&#8217; success, reaching nearly five hundreds participats and thousand of views on streaming and YouTube videos. This year joined us <a href=\"https://www.genesislectures.com/2018/durisch-nolli/\">Durish + Nolli</a>, <a href=\"https://www.genesislectures.com/2018/robbrecht-en-daem/\">Robbrecht en Daem</a> and <a href=\"https://www.genesislectures.com/2018/carmody-groarke/\">Carmody Groarke</a>.[/vc_column_text][vc_button size=&#8221;btn-link&#8221; border_width=&#8221;0&#8243; icon_position=&#8221;right&#8221; link=&#8221;url:https%3A%2F%2Fwww.genesislectures.com%2F2018|||&#8221; icon=&#8221;fa fa-chevron-right&#8221;]SEE 2018&#8217;S GUESTS[/vc_button][/vc_column][/vc_row]</p>\n",
+      "protected": false
+    },
+    "author": 1,
+    "parent": 0,
+    "template": "",
+    "_links": {
+      "self": [
+        {
+          "href": "https://www.genesislectures.com/wp-json/wp/v2/uncodeblock/135"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://www.genesislectures.com/wp-json/wp/v2/uncodeblock"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://www.genesislectures.com/wp-json/wp/v2/types/uncodeblock"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://www.genesislectures.com/wp-json/wp/v2/users/1"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 13,
+          "href": "https://www.genesislectures.com/wp-json/wp/v2/uncodeblock/135/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 606,
+          "href": "https://www.genesislectures.com/wp-json/wp/v2/uncodeblock/135/revisions/606"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://www.genesislectures.com/wp-json/wp/v2/media?parent=135"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 142,
+    "date": "2018-11-26T23:57:25",
+    "date_gmt": "2018-11-26T23:57:25",
+    "guid": {
+      "rendered": "https://www.genesislectures.com/?post_type=uncodeblock&#038;p=142"
+    },
+    "modified": "2020-02-21T10:59:23",
+    "modified_gmt": "2020-02-21T09:59:23",
+    "slug": "footer-carousel",
+    "status": "publish",
+    "type": "uncodeblock",
+    "link": "https://www.genesislectures.com/?uncodeblock=footer-carousel",
+    "title": {
+      "rendered": "Footer carousel"
+    },
+    "content": {
+      "rendered": "<p>[vc_row unlock_row_content=&#8221;yes&#8221; row_height_percent=&#8221;0&#8243; override_padding=&#8221;yes&#8221; h_padding=&#8221;0&#8243; top_padding=&#8221;7&#8243; bottom_padding=&#8221;3&#8243; back_color=&#8221;color-nhtu&#8221; overlay_alpha=&#8221;50&#8243; gutter_size=&#8221;3&#8243; column_width_percent=&#8221;100&#8243; shift_y=&#8221;0&#8243; z_index=&#8221;0&#8243; shape_dividers=&#8221;&#8221;][vc_column column_width_percent=&#8221;100&#8243; position_vertical=&#8221;bottom&#8221; align_horizontal=&#8221;align_center&#8221; style=&#8221;dark&#8221; overlay_alpha=&#8221;50&#8243; gutter_size=&#8221;3&#8243; medium_width=&#8221;0&#8243; mobile_width=&#8221;0&#8243; shift_x=&#8221;0&#8243; shift_y=&#8221;0&#8243; shift_y_down=&#8221;0&#8243; z_index=&#8221;0&#8243; width=&#8221;1/1&#8243;][vc_custom_heading heading_semantic=&#8221;h5&#8243; text_size=&#8221;h5&#8243;]<span class=\"font-168218\">ALL THE LECTURES</span>[/vc_custom_heading][uncode_index el_id=&#8221;index-181098&#8243; index_type=&#8221;carousel&#8221; carousel_lg=&#8221;6&#8243; carousel_md=&#8221;4&#8243; carousel_sm=&#8221;2&#8243; thumb_size=&#8221;one-one&#8221; gutter_size=&#8221;3&#8243; post_items=&#8221;title,media|featured|onpost|original&#8221; carousel_interval=&#8221;3000&#8243; carousel_navspeed=&#8221;400&#8243; carousel_loop=&#8221;yes&#8221; carousel_overflow=&#8221;yes&#8221; stage_padding=&#8221;10&#8243; single_text=&#8221;overlay&#8221; single_overlay_color=&#8221;accent&#8221; single_overlay_opacity=&#8221;50&#8243; single_text_visible=&#8221;yes&#8221; single_text_anim=&#8221;no&#8221; single_overlay_visible=&#8221;yes&#8221; single_image_coloration=&#8221;desaturated&#8221; single_image_color_anim=&#8221;yes&#8221; single_image_anim=&#8221;no&#8221; single_v_position=&#8221;bottom&#8221; single_padding=&#8221;1&#8243; single_title_transform=&#8221;uppercase&#8221; single_title_dimension=&#8221;h5&#8243; single_title_weight=&#8221;800&#8243; single_title_height=&#8221;fontheight-838182&#8243; single_shadow=&#8221;yes&#8221; shadow_weight=&#8221;std&#8221; single_border=&#8221;yes&#8221;][/vc_column][/vc_row]</p>\n",
+      "protected": false
+    },
+    "author": 1,
+    "parent": 0,
+    "template": "",
+    "_links": {
+      "self": [
+        {
+          "href": "https://www.genesislectures.com/wp-json/wp/v2/uncodeblock/142"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://www.genesislectures.com/wp-json/wp/v2/uncodeblock"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://www.genesislectures.com/wp-json/wp/v2/types/uncodeblock"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://www.genesislectures.com/wp-json/wp/v2/users/1"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 29,
+          "href": "https://www.genesislectures.com/wp-json/wp/v2/uncodeblock/142/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 790,
+          "href": "https://www.genesislectures.com/wp-json/wp/v2/uncodeblock/142/revisions/790"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://www.genesislectures.com/wp-json/wp/v2/media?parent=142"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 101,
+    "date": "2018-11-26T22:52:47",
+    "date_gmt": "2018-11-26T22:52:47",
+    "guid": {
+      "rendered": "https://www.genesislectures.com/?post_type=uncodeblock&#038;p=101"
+    },
+    "modified": "2020-06-08T18:38:39",
+    "modified_gmt": "2020-06-08T17:38:39",
+    "slug": "footer",
+    "status": "publish",
+    "type": "uncodeblock",
+    "link": "https://www.genesislectures.com/?uncodeblock=footer",
+    "title": {
+      "rendered": "Footer"
+    },
+    "content": {
+      "rendered": "<p>[vc_row row_height_percent=&#8221;0&#8243; override_padding=&#8221;yes&#8221; h_padding=&#8221;2&#8243; top_padding=&#8221;7&#8243; bottom_padding=&#8221;4&#8243; back_color=&#8221;color-nhtu&#8221; overlay_alpha=&#8221;50&#8243; gutter_size=&#8221;3&#8243; column_width_percent=&#8221;100&#8243; shift_y=&#8221;0&#8243; z_index=&#8221;0&#8243;][vc_column column_width_percent=&#8221;100&#8243; gutter_size=&#8221;3&#8243; style=&#8221;dark&#8221; overlay_alpha=&#8221;50&#8243; shift_x=&#8221;0&#8243; shift_y=&#8221;0&#8243; shift_y_down=&#8221;0&#8243; z_index=&#8221;0&#8243; medium_width=&#8221;0&#8243; mobile_width=&#8221;0&#8243; width=&#8221;1/1&#8243;][vc_row_inner][vc_column_inner column_width_percent=&#8221;75&#8243; position_horizontal=&#8221;left&#8221; gutter_size=&#8221;3&#8243; style=&#8221;dark&#8221; overlay_alpha=&#8221;50&#8243; shift_x=&#8221;0&#8243; shift_y=&#8221;0&#8243; shift_y_down=&#8221;0&#8243; z_index=&#8221;0&#8243; medium_width=&#8221;0&#8243; mobile_width=&#8221;0&#8243; width=&#8221;1/4&#8243;][vc_column_text]</p>\n<h6><span class=\"font-168218\">ABOUT US</span></h6>\n<p>Genesis was conceived by the Organizing Committee with the support of the Scientific Committee, formed by teachers and students from the Pisa University&#8217;s Building Engineering and Architecture MD course.[/vc_column_text][/vc_column_inner][vc_column_inner width=&#8221;2/4&#8243;][vc_single_image media=&#8221;1061&#8243; media_width_percent=&#8221;90&#8243; media_link=&#8221;|||&#8221; el_class=&#8221;onhover&#8221;][/vc_column_inner][vc_column_inner column_width_percent=&#8221;100&#8243; position_horizontal=&#8221;left&#8221; gutter_size=&#8221;3&#8243; overlay_alpha=&#8221;50&#8243; shift_x=&#8221;0&#8243; shift_y=&#8221;0&#8243; shift_y_down=&#8221;0&#8243; z_index=&#8221;0&#8243; medium_width=&#8221;0&#8243; mobile_width=&#8221;0&#8243; width=&#8221;1/4&#8243;][vc_column_text]</p>\n<h6><span class=\"font-168218\">NEWS</span></h6>\n<p>Subscribe to our newsletter to keep updated with all conferences and new events.[/vc_column_text][vc_button button_color=&#8221;accent&#8221; size=&#8221;btn-sm&#8221; wide=&#8221;yes&#8221; border_width=&#8221;0&#8243; link=&#8221;url:http%3A%2F%2Feepurl.com%2Fghh0lb||target:%20_blank|&#8221;]sign me up please![/vc_button][/vc_column_inner][/vc_row_inner][/vc_column][/vc_row]</p>\n",
+      "protected": false
+    },
+    "author": 1,
+    "parent": 0,
+    "template": "",
+    "_links": {
+      "self": [
+        {
+          "href": "https://www.genesislectures.com/wp-json/wp/v2/uncodeblock/101"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://www.genesislectures.com/wp-json/wp/v2/uncodeblock"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://www.genesislectures.com/wp-json/wp/v2/types/uncodeblock"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://www.genesislectures.com/wp-json/wp/v2/users/1"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 40,
+          "href": "https://www.genesislectures.com/wp-json/wp/v2/uncodeblock/101/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 1089,
+          "href": "https://www.genesislectures.com/wp-json/wp/v2/uncodeblock/101/revisions/1089"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://www.genesislectures.com/wp-json/wp/v2/media?parent=101"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 41,
+    "date": "2018-11-26T21:21:36",
+    "date_gmt": "2018-11-26T21:21:36",
+    "guid": {
+      "rendered": "https://www.genesislectures.com/?post_type=uncodeblock&#038;p=41"
+    },
+    "modified": "2020-03-03T14:57:25",
+    "modified_gmt": "2020-03-03T13:57:25",
+    "slug": "41-2",
+    "status": "publish",
+    "type": "uncodeblock",
+    "link": "https://www.genesislectures.com/?uncodeblock=41-2",
+    "title": {
+      "rendered": "Header Home"
+    },
+    "content": {
+      "rendered": "<p>[vc_row row_height_percent=&#8221;90&#8243; override_padding=&#8221;yes&#8221; h_padding=&#8221;2&#8243; top_padding=&#8221;0&#8243; bottom_padding=&#8221;0&#8243; back_color=&#8221;color-nhtu&#8221; back_image=&#8221;1014&#8243; parallax=&#8221;yes&#8221; overlay_alpha=&#8221;50&#8243; gutter_size=&#8221;3&#8243; column_width_percent=&#8221;100&#8243; shift_y=&#8221;0&#8243; z_index=&#8221;0&#8243; mobile_visibility=&#8221;yes&#8221; row_name=&#8221;Genesis Lectures&#8221;][vc_column column_width_percent=&#8221;100&#8243; position_vertical=&#8221;middle&#8221; gutter_size=&#8221;3&#8243; style=&#8221;dark&#8221; overlay_alpha=&#8221;50&#8243; shift_x=&#8221;0&#8243; shift_y=&#8221;0&#8243; shift_y_down=&#8221;0&#8243; z_index=&#8221;0&#8243; medium_width=&#8221;0&#8243; mobile_width=&#8221;0&#8243; width=&#8221;1/1&#8243;][vc_row_inner row_inner_height_percent=&#8221;0&#8243; overlay_alpha=&#8221;50&#8243; gutter_size=&#8221;3&#8243; shift_y=&#8221;0&#8243; z_index=&#8221;0&#8243;][vc_column_inner column_width_percent=&#8221;100&#8243; position_vertical=&#8221;middle&#8221; gutter_size=&#8221;3&#8243; style=&#8221;dark&#8221; overlay_alpha=&#8221;50&#8243; shift_x=&#8221;0&#8243; shift_y=&#8221;0&#8243; shift_y_down=&#8221;0&#8243; z_index=&#8221;0&#8243; medium_width=&#8221;0&#8243; mobile_width=&#8221;0&#8243; width=&#8221;2/3&#8243;][vc_custom_heading heading_semantic=&#8221;h1&#8243; text_font=&#8221;font-177656&#8243; text_size=&#8221;h1&#8243; text_weight=&#8221;400&#8243; text_height=&#8221;fontheight-838182&#8243;]How does a project begin? How much to modify or protect the initial idea? When do you stop?[/vc_custom_heading][/vc_column_inner][vc_column_inner column_width_percent=&#8221;100&#8243; gutter_size=&#8221;3&#8243; overlay_alpha=&#8221;50&#8243; shift_x=&#8221;0&#8243; shift_y=&#8221;0&#8243; shift_y_down=&#8221;0&#8243; z_index=&#8221;0&#8243; medium_width=&#8221;0&#8243; mobile_width=&#8221;0&#8243; width=&#8221;1/3&#8243;][/vc_column_inner][/vc_row_inner][vc_row_inner row_inner_height_percent=&#8221;0&#8243; overlay_alpha=&#8221;50&#8243; gutter_size=&#8221;3&#8243; shift_y=&#8221;0&#8243; z_index=&#8221;0&#8243;][vc_column_inner column_width_percent=&#8221;100&#8243; position_vertical=&#8221;middle&#8221; gutter_size=&#8221;3&#8243; overlay_alpha=&#8221;50&#8243; shift_x=&#8221;0&#8243; shift_y=&#8221;0&#8243; shift_y_down=&#8221;0&#8243; z_index=&#8221;0&#8243; medium_width=&#8221;0&#8243; mobile_width=&#8221;0&#8243; width=&#8221;1/3&#8243;][vc_button size=&#8221;btn-link&#8221; border_width=&#8221;0&#8243; icon_position=&#8221;right&#8221; icon=&#8221;fa fa-chevron-right&#8221; link=&#8221;url:http%3A%2F%2Fwww.genesislectures.com%2Fabout%2F|title:About||&#8221;]ABOUT GENESIS lectures[/vc_button][vc_button size=&#8221;btn-link&#8221; border_width=&#8221;0&#8243; icon_position=&#8221;right&#8221; icon=&#8221;fa fa-chevron-right&#8221; link=&#8221;url:https%3A%2F%2Fwww.genesislectures.com%2Farchive%2F|||&#8221;]LECTURES ARCHIVE[/vc_button][vc_button button_color=&#8221;accent&#8221; outline=&#8221;yes&#8221; border_width=&#8221;0&#8243; link=&#8221;url:https%3A%2F%2Fwww.genesislectures.com%2F%232020|||&#8221; icon=&#8221;fa fa-arrow-down-thick&#8221;]NOW ONLINE 2020&#8217;S speakers[/vc_button][/vc_column_inner][vc_column_inner column_width_percent=&#8221;100&#8243; position_vertical=&#8221;middle&#8221; gutter_size=&#8221;3&#8243; style=&#8221;dark&#8221; overlay_alpha=&#8221;50&#8243; shift_x=&#8221;0&#8243; shift_y=&#8221;0&#8243; shift_y_down=&#8221;0&#8243; z_index=&#8221;0&#8243; medium_width=&#8221;0&#8243; mobile_width=&#8221;0&#8243; width=&#8221;2/3&#8243;][vc_custom_heading heading_semantic=&#8221;h1&#8243; text_size=&#8221;h1&#8243; text_weight=&#8221;400&#8243; text_height=&#8221;fontheight-838182&#8243; text_space=&#8221;fontspace-005&#8243;]Genesis explores with some of the most known firms and designers how the architectural project was born and risen.[/vc_custom_heading][/vc_column_inner][/vc_row_inner][/vc_column][/vc_row][vc_row row_height_percent=&#8221;0&#8243; override_padding=&#8221;yes&#8221; h_padding=&#8221;2&#8243; top_padding=&#8221;5&#8243; bottom_padding=&#8221;2&#8243; back_color=&#8221;color-nhtu&#8221; back_image=&#8221;1027&#8243; back_position=&#8221;center top&#8221; parallax=&#8221;yes&#8221; overlay_alpha=&#8221;50&#8243; gutter_size=&#8221;3&#8243; column_width_percent=&#8221;100&#8243; shift_y=&#8221;0&#8243; z_index=&#8221;0&#8243; desktop_visibility=&#8221;yes&#8221; medium_visibility=&#8221;yes&#8221;][vc_column column_width_percent=&#8221;100&#8243; position_vertical=&#8221;middle&#8221; gutter_size=&#8221;3&#8243; style=&#8221;dark&#8221; overlay_alpha=&#8221;50&#8243; shift_x=&#8221;0&#8243; shift_y=&#8221;0&#8243; shift_y_down=&#8221;0&#8243; z_index=&#8221;0&#8243; medium_width=&#8221;0&#8243; mobile_width=&#8221;0&#8243; width=&#8221;1/1&#8243;][vc_custom_heading heading_semantic=&#8221;h1&#8243; text_font=&#8221;font-177656&#8243; text_size=&#8221;h1&#8243; text_weight=&#8221;400&#8243; text_height=&#8221;fontheight-838182&#8243;]How does a project begin? How much to modify or protect the initial idea? When do you stop?[/vc_custom_heading][vc_custom_heading heading_semantic=&#8221;h1&#8243; text_size=&#8221;h1&#8243; text_weight=&#8221;400&#8243; text_height=&#8221;fontheight-838182&#8243; text_space=&#8221;fontspace-005&#8243;]Genesis explores with some of the most known firms and designer how the architectural project was born and risen.[/vc_custom_heading][vc_row_inner][vc_column_inner column_width_percent=&#8221;100&#8243; align_horizontal=&#8221;align_center&#8221; gutter_size=&#8221;3&#8243; overlay_alpha=&#8221;50&#8243; shift_x=&#8221;0&#8243; shift_y=&#8221;0&#8243; shift_y_down=&#8221;0&#8243; z_index=&#8221;0&#8243; medium_width=&#8221;0&#8243; mobile_width=&#8221;0&#8243; width=&#8221;1/1&#8243;][vc_button size=&#8221;btn-link&#8221; border_width=&#8221;0&#8243; icon_position=&#8221;right&#8221; icon=&#8221;fa fa-chevron-right&#8221; link=&#8221;url:http%3A%2F%2Fwww.genesislectures.com%2Fabout%2F|title:About||&#8221;]ABOUT GENESIS lectures[/vc_button][vc_button size=&#8221;btn-link&#8221; border_width=&#8221;0&#8243; icon_position=&#8221;right&#8221; icon=&#8221;fa fa-chevron-right&#8221; link=&#8221;url:https%3A%2F%2Fwww.genesislectures.com%2Farchive%2F|||&#8221;]LECTURES ARCHIVE[/vc_button][vc_button button_color=&#8221;accent&#8221; wide=&#8221;yes&#8221; outline=&#8221;yes&#8221; border_width=&#8221;0&#8243; link=&#8221;||target:%20_blank|&#8221; icon=&#8221;fa fa-star&#8221;]NOW ONLINE 2020&#8217;S speakers[/vc_button][/vc_column_inner][/vc_row_inner][/vc_column][/vc_row]</p>\n",
+      "protected": false
+    },
+    "author": 1,
+    "parent": 0,
+    "template": "",
+    "_links": {
+      "self": [
+        {
+          "href": "https://www.genesislectures.com/wp-json/wp/v2/uncodeblock/41"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://www.genesislectures.com/wp-json/wp/v2/uncodeblock"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://www.genesislectures.com/wp-json/wp/v2/types/uncodeblock"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://www.genesislectures.com/wp-json/wp/v2/users/1"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 72,
+          "href": "https://www.genesislectures.com/wp-json/wp/v2/uncodeblock/41/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 1051,
+          "href": "https://www.genesislectures.com/wp-json/wp/v2/uncodeblock/41/revisions/1051"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://www.genesislectures.com/wp-json/wp/v2/media?parent=41"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  }
+]

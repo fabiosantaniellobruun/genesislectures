@@ -1,0 +1,830 @@
+[
+  {
+    "id": 5,
+    "count": 3,
+    "description": "",
+    "link": "https://www.genesislectures.com/category/2017/",
+    "name": "2017",
+    "slug": "2017",
+    "taxonomy": "category",
+    "parent": 0,
+    "meta": [],
+    "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v21.1 - https://yoast.com/wordpress/plugins/seo/ -->\n<title>2017 Archivi - Genesis Lectures</title>\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://www.genesislectures.com/category/2017/\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"2017 Archivi - Genesis Lectures\" />\n<meta property=\"og:url\" content=\"https://www.genesislectures.com/category/2017/\" />\n<meta property=\"og:site_name\" content=\"Genesis Lectures\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"CollectionPage\",\"@id\":\"https://www.genesislectures.com/category/2017/\",\"url\":\"https://www.genesislectures.com/category/2017/\",\"name\":\"2017 Archivi - Genesis Lectures\",\"isPartOf\":{\"@id\":\"https://www.genesislectures.com/#website\"},\"breadcrumb\":{\"@id\":\"https://www.genesislectures.com/category/2017/#breadcrumb\"},\"inLanguage\":\"en\"},{\"@type\":\"BreadcrumbList\",\"@id\":\"https://www.genesislectures.com/category/2017/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://www.genesislectures.com/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"2017\"}]},{\"@type\":\"WebSite\",\"@id\":\"https://www.genesislectures.com/#website\",\"url\":\"https://www.genesislectures.com/\",\"name\":\"Genesis Lectures\",\"description\":\"Architecture Lectures in Pisa\",\"publisher\":{\"@id\":\"https://www.genesislectures.com/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://www.genesislectures.com/?s={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"en\"},{\"@type\":\"Organization\",\"@id\":\"https://www.genesislectures.com/#organization\",\"name\":\"Genesis Lectures\",\"url\":\"https://www.genesislectures.com/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"en\",\"@id\":\"https://www.genesislectures.com/#/schema/logo/image/\",\"url\":\"https://www.genesislectures.com/wp-content/uploads/2018/11/genesis_logo.svg\",\"contentUrl\":\"https://www.genesislectures.com/wp-content/uploads/2018/11/genesis_logo.svg\",\"width\":1,\"height\":1,\"caption\":\"Genesis Lectures\"},\"image\":{\"@id\":\"https://www.genesislectures.com/#/schema/logo/image/\"},\"sameAs\":[\"https://www.facebook.com/genesislectures/\",\"https://www.instagram.com/genesis.archilectures/\",\"https://www.youtube.com/playlist?list=PLVmIleeFlDf8-8qn5D9EbA3SjzWqVuSzT\"]}]}</script>\n<!-- / Yoast SEO plugin. -->",
+    "yoast_head_json": {
+      "title": "2017 Archivi - Genesis Lectures",
+      "robots": {
+        "index": "index",
+        "follow": "follow",
+        "max-snippet": "max-snippet:-1",
+        "max-image-preview": "max-image-preview:large",
+        "max-video-preview": "max-video-preview:-1"
+      },
+      "canonical": "https://www.genesislectures.com/category/2017/",
+      "og_locale": "en_US",
+      "og_type": "article",
+      "og_title": "2017 Archivi - Genesis Lectures",
+      "og_url": "https://www.genesislectures.com/category/2017/",
+      "og_site_name": "Genesis Lectures",
+      "twitter_card": "summary_large_image",
+      "schema": {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "CollectionPage",
+            "@id": "https://www.genesislectures.com/category/2017/",
+            "url": "https://www.genesislectures.com/category/2017/",
+            "name": "2017 Archivi - Genesis Lectures",
+            "isPartOf": {
+              "@id": "https://www.genesislectures.com/#website"
+            },
+            "breadcrumb": {
+              "@id": "https://www.genesislectures.com/category/2017/#breadcrumb"
+            },
+            "inLanguage": "en"
+          },
+          {
+            "@type": "BreadcrumbList",
+            "@id": "https://www.genesislectures.com/category/2017/#breadcrumb",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://www.genesislectures.com/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "2017"
+              }
+            ]
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://www.genesislectures.com/#website",
+            "url": "https://www.genesislectures.com/",
+            "name": "Genesis Lectures",
+            "description": "Architecture Lectures in Pisa",
+            "publisher": {
+              "@id": "https://www.genesislectures.com/#organization"
+            },
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://www.genesislectures.com/?s={search_term_string}"
+                },
+                "query-input": "required name=search_term_string"
+              }
+            ],
+            "inLanguage": "en"
+          },
+          {
+            "@type": "Organization",
+            "@id": "https://www.genesislectures.com/#organization",
+            "name": "Genesis Lectures",
+            "url": "https://www.genesislectures.com/",
+            "logo": {
+              "@type": "ImageObject",
+              "inLanguage": "en",
+              "@id": "https://www.genesislectures.com/#/schema/logo/image/",
+              "url": "https://www.genesislectures.com/wp-content/uploads/2018/11/genesis_logo.svg",
+              "contentUrl": "https://www.genesislectures.com/wp-content/uploads/2018/11/genesis_logo.svg",
+              "width": 1,
+              "height": 1,
+              "caption": "Genesis Lectures"
+            },
+            "image": {
+              "@id": "https://www.genesislectures.com/#/schema/logo/image/"
+            },
+            "sameAs": [
+              "https://www.facebook.com/genesislectures/",
+              "https://www.instagram.com/genesis.archilectures/",
+              "https://www.youtube.com/playlist?list=PLVmIleeFlDf8-8qn5D9EbA3SjzWqVuSzT"
+            ]
+          }
+        ]
+      }
+    },
+    "_links": {
+      "self": [
+        {
+          "href": "https://www.genesislectures.com/wp-json/wp/v2/categories/5"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://www.genesislectures.com/wp-json/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://www.genesislectures.com/wp-json/wp/v2/taxonomies/category"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://www.genesislectures.com/wp-json/wp/v2/posts?categories=5"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 6,
+    "count": 3,
+    "description": "",
+    "link": "https://www.genesislectures.com/category/2018/",
+    "name": "2018",
+    "slug": "2018",
+    "taxonomy": "category",
+    "parent": 0,
+    "meta": [],
+    "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v21.1 - https://yoast.com/wordpress/plugins/seo/ -->\n<title>2018 Archivi - Genesis Lectures</title>\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://www.genesislectures.com/category/2018/\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"2018 Archivi - Genesis Lectures\" />\n<meta property=\"og:url\" content=\"https://www.genesislectures.com/category/2018/\" />\n<meta property=\"og:site_name\" content=\"Genesis Lectures\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"CollectionPage\",\"@id\":\"https://www.genesislectures.com/category/2018/\",\"url\":\"https://www.genesislectures.com/category/2018/\",\"name\":\"2018 Archivi - Genesis Lectures\",\"isPartOf\":{\"@id\":\"https://www.genesislectures.com/#website\"},\"breadcrumb\":{\"@id\":\"https://www.genesislectures.com/category/2018/#breadcrumb\"},\"inLanguage\":\"en\"},{\"@type\":\"BreadcrumbList\",\"@id\":\"https://www.genesislectures.com/category/2018/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://www.genesislectures.com/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"2018\"}]},{\"@type\":\"WebSite\",\"@id\":\"https://www.genesislectures.com/#website\",\"url\":\"https://www.genesislectures.com/\",\"name\":\"Genesis Lectures\",\"description\":\"Architecture Lectures in Pisa\",\"publisher\":{\"@id\":\"https://www.genesislectures.com/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://www.genesislectures.com/?s={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"en\"},{\"@type\":\"Organization\",\"@id\":\"https://www.genesislectures.com/#organization\",\"name\":\"Genesis Lectures\",\"url\":\"https://www.genesislectures.com/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"en\",\"@id\":\"https://www.genesislectures.com/#/schema/logo/image/\",\"url\":\"https://www.genesislectures.com/wp-content/uploads/2018/11/genesis_logo.svg\",\"contentUrl\":\"https://www.genesislectures.com/wp-content/uploads/2018/11/genesis_logo.svg\",\"width\":1,\"height\":1,\"caption\":\"Genesis Lectures\"},\"image\":{\"@id\":\"https://www.genesislectures.com/#/schema/logo/image/\"},\"sameAs\":[\"https://www.facebook.com/genesislectures/\",\"https://www.instagram.com/genesis.archilectures/\",\"https://www.youtube.com/playlist?list=PLVmIleeFlDf8-8qn5D9EbA3SjzWqVuSzT\"]}]}</script>\n<!-- / Yoast SEO plugin. -->",
+    "yoast_head_json": {
+      "title": "2018 Archivi - Genesis Lectures",
+      "robots": {
+        "index": "index",
+        "follow": "follow",
+        "max-snippet": "max-snippet:-1",
+        "max-image-preview": "max-image-preview:large",
+        "max-video-preview": "max-video-preview:-1"
+      },
+      "canonical": "https://www.genesislectures.com/category/2018/",
+      "og_locale": "en_US",
+      "og_type": "article",
+      "og_title": "2018 Archivi - Genesis Lectures",
+      "og_url": "https://www.genesislectures.com/category/2018/",
+      "og_site_name": "Genesis Lectures",
+      "twitter_card": "summary_large_image",
+      "schema": {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "CollectionPage",
+            "@id": "https://www.genesislectures.com/category/2018/",
+            "url": "https://www.genesislectures.com/category/2018/",
+            "name": "2018 Archivi - Genesis Lectures",
+            "isPartOf": {
+              "@id": "https://www.genesislectures.com/#website"
+            },
+            "breadcrumb": {
+              "@id": "https://www.genesislectures.com/category/2018/#breadcrumb"
+            },
+            "inLanguage": "en"
+          },
+          {
+            "@type": "BreadcrumbList",
+            "@id": "https://www.genesislectures.com/category/2018/#breadcrumb",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://www.genesislectures.com/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "2018"
+              }
+            ]
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://www.genesislectures.com/#website",
+            "url": "https://www.genesislectures.com/",
+            "name": "Genesis Lectures",
+            "description": "Architecture Lectures in Pisa",
+            "publisher": {
+              "@id": "https://www.genesislectures.com/#organization"
+            },
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://www.genesislectures.com/?s={search_term_string}"
+                },
+                "query-input": "required name=search_term_string"
+              }
+            ],
+            "inLanguage": "en"
+          },
+          {
+            "@type": "Organization",
+            "@id": "https://www.genesislectures.com/#organization",
+            "name": "Genesis Lectures",
+            "url": "https://www.genesislectures.com/",
+            "logo": {
+              "@type": "ImageObject",
+              "inLanguage": "en",
+              "@id": "https://www.genesislectures.com/#/schema/logo/image/",
+              "url": "https://www.genesislectures.com/wp-content/uploads/2018/11/genesis_logo.svg",
+              "contentUrl": "https://www.genesislectures.com/wp-content/uploads/2018/11/genesis_logo.svg",
+              "width": 1,
+              "height": 1,
+              "caption": "Genesis Lectures"
+            },
+            "image": {
+              "@id": "https://www.genesislectures.com/#/schema/logo/image/"
+            },
+            "sameAs": [
+              "https://www.facebook.com/genesislectures/",
+              "https://www.instagram.com/genesis.archilectures/",
+              "https://www.youtube.com/playlist?list=PLVmIleeFlDf8-8qn5D9EbA3SjzWqVuSzT"
+            ]
+          }
+        ]
+      }
+    },
+    "_links": {
+      "self": [
+        {
+          "href": "https://www.genesislectures.com/wp-json/wp/v2/categories/6"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://www.genesislectures.com/wp-json/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://www.genesislectures.com/wp-json/wp/v2/taxonomies/category"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://www.genesislectures.com/wp-json/wp/v2/posts?categories=6"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 7,
+    "count": 3,
+    "description": "",
+    "link": "https://www.genesislectures.com/category/2019/",
+    "name": "2019",
+    "slug": "2019",
+    "taxonomy": "category",
+    "parent": 0,
+    "meta": [],
+    "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v21.1 - https://yoast.com/wordpress/plugins/seo/ -->\n<title>2019 Archivi - Genesis Lectures</title>\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://www.genesislectures.com/category/2019/\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"2019 Archivi - Genesis Lectures\" />\n<meta property=\"og:url\" content=\"https://www.genesislectures.com/category/2019/\" />\n<meta property=\"og:site_name\" content=\"Genesis Lectures\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"CollectionPage\",\"@id\":\"https://www.genesislectures.com/category/2019/\",\"url\":\"https://www.genesislectures.com/category/2019/\",\"name\":\"2019 Archivi - Genesis Lectures\",\"isPartOf\":{\"@id\":\"https://www.genesislectures.com/#website\"},\"breadcrumb\":{\"@id\":\"https://www.genesislectures.com/category/2019/#breadcrumb\"},\"inLanguage\":\"en\"},{\"@type\":\"BreadcrumbList\",\"@id\":\"https://www.genesislectures.com/category/2019/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://www.genesislectures.com/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"2019\"}]},{\"@type\":\"WebSite\",\"@id\":\"https://www.genesislectures.com/#website\",\"url\":\"https://www.genesislectures.com/\",\"name\":\"Genesis Lectures\",\"description\":\"Architecture Lectures in Pisa\",\"publisher\":{\"@id\":\"https://www.genesislectures.com/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://www.genesislectures.com/?s={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"en\"},{\"@type\":\"Organization\",\"@id\":\"https://www.genesislectures.com/#organization\",\"name\":\"Genesis Lectures\",\"url\":\"https://www.genesislectures.com/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"en\",\"@id\":\"https://www.genesislectures.com/#/schema/logo/image/\",\"url\":\"https://www.genesislectures.com/wp-content/uploads/2018/11/genesis_logo.svg\",\"contentUrl\":\"https://www.genesislectures.com/wp-content/uploads/2018/11/genesis_logo.svg\",\"width\":1,\"height\":1,\"caption\":\"Genesis Lectures\"},\"image\":{\"@id\":\"https://www.genesislectures.com/#/schema/logo/image/\"},\"sameAs\":[\"https://www.facebook.com/genesislectures/\",\"https://www.instagram.com/genesis.archilectures/\",\"https://www.youtube.com/playlist?list=PLVmIleeFlDf8-8qn5D9EbA3SjzWqVuSzT\"]}]}</script>\n<!-- / Yoast SEO plugin. -->",
+    "yoast_head_json": {
+      "title": "2019 Archivi - Genesis Lectures",
+      "robots": {
+        "index": "index",
+        "follow": "follow",
+        "max-snippet": "max-snippet:-1",
+        "max-image-preview": "max-image-preview:large",
+        "max-video-preview": "max-video-preview:-1"
+      },
+      "canonical": "https://www.genesislectures.com/category/2019/",
+      "og_locale": "en_US",
+      "og_type": "article",
+      "og_title": "2019 Archivi - Genesis Lectures",
+      "og_url": "https://www.genesislectures.com/category/2019/",
+      "og_site_name": "Genesis Lectures",
+      "twitter_card": "summary_large_image",
+      "schema": {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "CollectionPage",
+            "@id": "https://www.genesislectures.com/category/2019/",
+            "url": "https://www.genesislectures.com/category/2019/",
+            "name": "2019 Archivi - Genesis Lectures",
+            "isPartOf": {
+              "@id": "https://www.genesislectures.com/#website"
+            },
+            "breadcrumb": {
+              "@id": "https://www.genesislectures.com/category/2019/#breadcrumb"
+            },
+            "inLanguage": "en"
+          },
+          {
+            "@type": "BreadcrumbList",
+            "@id": "https://www.genesislectures.com/category/2019/#breadcrumb",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://www.genesislectures.com/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "2019"
+              }
+            ]
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://www.genesislectures.com/#website",
+            "url": "https://www.genesislectures.com/",
+            "name": "Genesis Lectures",
+            "description": "Architecture Lectures in Pisa",
+            "publisher": {
+              "@id": "https://www.genesislectures.com/#organization"
+            },
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://www.genesislectures.com/?s={search_term_string}"
+                },
+                "query-input": "required name=search_term_string"
+              }
+            ],
+            "inLanguage": "en"
+          },
+          {
+            "@type": "Organization",
+            "@id": "https://www.genesislectures.com/#organization",
+            "name": "Genesis Lectures",
+            "url": "https://www.genesislectures.com/",
+            "logo": {
+              "@type": "ImageObject",
+              "inLanguage": "en",
+              "@id": "https://www.genesislectures.com/#/schema/logo/image/",
+              "url": "https://www.genesislectures.com/wp-content/uploads/2018/11/genesis_logo.svg",
+              "contentUrl": "https://www.genesislectures.com/wp-content/uploads/2018/11/genesis_logo.svg",
+              "width": 1,
+              "height": 1,
+              "caption": "Genesis Lectures"
+            },
+            "image": {
+              "@id": "https://www.genesislectures.com/#/schema/logo/image/"
+            },
+            "sameAs": [
+              "https://www.facebook.com/genesislectures/",
+              "https://www.instagram.com/genesis.archilectures/",
+              "https://www.youtube.com/playlist?list=PLVmIleeFlDf8-8qn5D9EbA3SjzWqVuSzT"
+            ]
+          }
+        ]
+      }
+    },
+    "_links": {
+      "self": [
+        {
+          "href": "https://www.genesislectures.com/wp-json/wp/v2/categories/7"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://www.genesislectures.com/wp-json/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://www.genesislectures.com/wp-json/wp/v2/taxonomies/category"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://www.genesislectures.com/wp-json/wp/v2/posts?categories=7"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 44,
+    "count": 3,
+    "description": "",
+    "link": "https://www.genesislectures.com/category/2020/",
+    "name": "2020",
+    "slug": "2020",
+    "taxonomy": "category",
+    "parent": 0,
+    "meta": [],
+    "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v21.1 - https://yoast.com/wordpress/plugins/seo/ -->\n<title>2020 Archivi - Genesis Lectures</title>\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://www.genesislectures.com/category/2020/\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"2020 Archivi - Genesis Lectures\" />\n<meta property=\"og:url\" content=\"https://www.genesislectures.com/category/2020/\" />\n<meta property=\"og:site_name\" content=\"Genesis Lectures\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"CollectionPage\",\"@id\":\"https://www.genesislectures.com/category/2020/\",\"url\":\"https://www.genesislectures.com/category/2020/\",\"name\":\"2020 Archivi - Genesis Lectures\",\"isPartOf\":{\"@id\":\"https://www.genesislectures.com/#website\"},\"breadcrumb\":{\"@id\":\"https://www.genesislectures.com/category/2020/#breadcrumb\"},\"inLanguage\":\"en\"},{\"@type\":\"BreadcrumbList\",\"@id\":\"https://www.genesislectures.com/category/2020/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://www.genesislectures.com/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"2020\"}]},{\"@type\":\"WebSite\",\"@id\":\"https://www.genesislectures.com/#website\",\"url\":\"https://www.genesislectures.com/\",\"name\":\"Genesis Lectures\",\"description\":\"Architecture Lectures in Pisa\",\"publisher\":{\"@id\":\"https://www.genesislectures.com/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://www.genesislectures.com/?s={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"en\"},{\"@type\":\"Organization\",\"@id\":\"https://www.genesislectures.com/#organization\",\"name\":\"Genesis Lectures\",\"url\":\"https://www.genesislectures.com/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"en\",\"@id\":\"https://www.genesislectures.com/#/schema/logo/image/\",\"url\":\"https://www.genesislectures.com/wp-content/uploads/2018/11/genesis_logo.svg\",\"contentUrl\":\"https://www.genesislectures.com/wp-content/uploads/2018/11/genesis_logo.svg\",\"width\":1,\"height\":1,\"caption\":\"Genesis Lectures\"},\"image\":{\"@id\":\"https://www.genesislectures.com/#/schema/logo/image/\"},\"sameAs\":[\"https://www.facebook.com/genesislectures/\",\"https://www.instagram.com/genesis.archilectures/\",\"https://www.youtube.com/playlist?list=PLVmIleeFlDf8-8qn5D9EbA3SjzWqVuSzT\"]}]}</script>\n<!-- / Yoast SEO plugin. -->",
+    "yoast_head_json": {
+      "title": "2020 Archivi - Genesis Lectures",
+      "robots": {
+        "index": "index",
+        "follow": "follow",
+        "max-snippet": "max-snippet:-1",
+        "max-image-preview": "max-image-preview:large",
+        "max-video-preview": "max-video-preview:-1"
+      },
+      "canonical": "https://www.genesislectures.com/category/2020/",
+      "og_locale": "en_US",
+      "og_type": "article",
+      "og_title": "2020 Archivi - Genesis Lectures",
+      "og_url": "https://www.genesislectures.com/category/2020/",
+      "og_site_name": "Genesis Lectures",
+      "twitter_card": "summary_large_image",
+      "schema": {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "CollectionPage",
+            "@id": "https://www.genesislectures.com/category/2020/",
+            "url": "https://www.genesislectures.com/category/2020/",
+            "name": "2020 Archivi - Genesis Lectures",
+            "isPartOf": {
+              "@id": "https://www.genesislectures.com/#website"
+            },
+            "breadcrumb": {
+              "@id": "https://www.genesislectures.com/category/2020/#breadcrumb"
+            },
+            "inLanguage": "en"
+          },
+          {
+            "@type": "BreadcrumbList",
+            "@id": "https://www.genesislectures.com/category/2020/#breadcrumb",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://www.genesislectures.com/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "2020"
+              }
+            ]
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://www.genesislectures.com/#website",
+            "url": "https://www.genesislectures.com/",
+            "name": "Genesis Lectures",
+            "description": "Architecture Lectures in Pisa",
+            "publisher": {
+              "@id": "https://www.genesislectures.com/#organization"
+            },
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://www.genesislectures.com/?s={search_term_string}"
+                },
+                "query-input": "required name=search_term_string"
+              }
+            ],
+            "inLanguage": "en"
+          },
+          {
+            "@type": "Organization",
+            "@id": "https://www.genesislectures.com/#organization",
+            "name": "Genesis Lectures",
+            "url": "https://www.genesislectures.com/",
+            "logo": {
+              "@type": "ImageObject",
+              "inLanguage": "en",
+              "@id": "https://www.genesislectures.com/#/schema/logo/image/",
+              "url": "https://www.genesislectures.com/wp-content/uploads/2018/11/genesis_logo.svg",
+              "contentUrl": "https://www.genesislectures.com/wp-content/uploads/2018/11/genesis_logo.svg",
+              "width": 1,
+              "height": 1,
+              "caption": "Genesis Lectures"
+            },
+            "image": {
+              "@id": "https://www.genesislectures.com/#/schema/logo/image/"
+            },
+            "sameAs": [
+              "https://www.facebook.com/genesislectures/",
+              "https://www.instagram.com/genesis.archilectures/",
+              "https://www.youtube.com/playlist?list=PLVmIleeFlDf8-8qn5D9EbA3SjzWqVuSzT"
+            ]
+          }
+        ]
+      }
+    },
+    "_links": {
+      "self": [
+        {
+          "href": "https://www.genesislectures.com/wp-json/wp/v2/categories/44"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://www.genesislectures.com/wp-json/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://www.genesislectures.com/wp-json/wp/v2/taxonomies/category"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://www.genesislectures.com/wp-json/wp/v2/posts?categories=44"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1,
+    "count": 0,
+    "description": "",
+    "link": "https://www.genesislectures.com/category/uncategorized/",
+    "name": "Uncategorized",
+    "slug": "uncategorized",
+    "taxonomy": "category",
+    "parent": 0,
+    "meta": [],
+    "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v21.1 - https://yoast.com/wordpress/plugins/seo/ -->\n<title>Uncategorized Archivi - Genesis Lectures</title>\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://www.genesislectures.com/category/uncategorized/\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Uncategorized Archivi - Genesis Lectures\" />\n<meta property=\"og:url\" content=\"https://www.genesislectures.com/category/uncategorized/\" />\n<meta property=\"og:site_name\" content=\"Genesis Lectures\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"CollectionPage\",\"@id\":\"https://www.genesislectures.com/category/uncategorized/\",\"url\":\"https://www.genesislectures.com/category/uncategorized/\",\"name\":\"Uncategorized Archivi - Genesis Lectures\",\"isPartOf\":{\"@id\":\"https://www.genesislectures.com/#website\"},\"breadcrumb\":{\"@id\":\"https://www.genesislectures.com/category/uncategorized/#breadcrumb\"},\"inLanguage\":\"en\"},{\"@type\":\"BreadcrumbList\",\"@id\":\"https://www.genesislectures.com/category/uncategorized/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://www.genesislectures.com/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Uncategorized\"}]},{\"@type\":\"WebSite\",\"@id\":\"https://www.genesislectures.com/#website\",\"url\":\"https://www.genesislectures.com/\",\"name\":\"Genesis Lectures\",\"description\":\"Architecture Lectures in Pisa\",\"publisher\":{\"@id\":\"https://www.genesislectures.com/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://www.genesislectures.com/?s={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"en\"},{\"@type\":\"Organization\",\"@id\":\"https://www.genesislectures.com/#organization\",\"name\":\"Genesis Lectures\",\"url\":\"https://www.genesislectures.com/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"en\",\"@id\":\"https://www.genesislectures.com/#/schema/logo/image/\",\"url\":\"https://www.genesislectures.com/wp-content/uploads/2018/11/genesis_logo.svg\",\"contentUrl\":\"https://www.genesislectures.com/wp-content/uploads/2018/11/genesis_logo.svg\",\"width\":1,\"height\":1,\"caption\":\"Genesis Lectures\"},\"image\":{\"@id\":\"https://www.genesislectures.com/#/schema/logo/image/\"},\"sameAs\":[\"https://www.facebook.com/genesislectures/\",\"https://www.instagram.com/genesis.archilectures/\",\"https://www.youtube.com/playlist?list=PLVmIleeFlDf8-8qn5D9EbA3SjzWqVuSzT\"]}]}</script>\n<!-- / Yoast SEO plugin. -->",
+    "yoast_head_json": {
+      "title": "Uncategorized Archivi - Genesis Lectures",
+      "robots": {
+        "index": "index",
+        "follow": "follow",
+        "max-snippet": "max-snippet:-1",
+        "max-image-preview": "max-image-preview:large",
+        "max-video-preview": "max-video-preview:-1"
+      },
+      "canonical": "https://www.genesislectures.com/category/uncategorized/",
+      "og_locale": "en_US",
+      "og_type": "article",
+      "og_title": "Uncategorized Archivi - Genesis Lectures",
+      "og_url": "https://www.genesislectures.com/category/uncategorized/",
+      "og_site_name": "Genesis Lectures",
+      "twitter_card": "summary_large_image",
+      "schema": {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "CollectionPage",
+            "@id": "https://www.genesislectures.com/category/uncategorized/",
+            "url": "https://www.genesislectures.com/category/uncategorized/",
+            "name": "Uncategorized Archivi - Genesis Lectures",
+            "isPartOf": {
+              "@id": "https://www.genesislectures.com/#website"
+            },
+            "breadcrumb": {
+              "@id": "https://www.genesislectures.com/category/uncategorized/#breadcrumb"
+            },
+            "inLanguage": "en"
+          },
+          {
+            "@type": "BreadcrumbList",
+            "@id": "https://www.genesislectures.com/category/uncategorized/#breadcrumb",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://www.genesislectures.com/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Uncategorized"
+              }
+            ]
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://www.genesislectures.com/#website",
+            "url": "https://www.genesislectures.com/",
+            "name": "Genesis Lectures",
+            "description": "Architecture Lectures in Pisa",
+            "publisher": {
+              "@id": "https://www.genesislectures.com/#organization"
+            },
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://www.genesislectures.com/?s={search_term_string}"
+                },
+                "query-input": "required name=search_term_string"
+              }
+            ],
+            "inLanguage": "en"
+          },
+          {
+            "@type": "Organization",
+            "@id": "https://www.genesislectures.com/#organization",
+            "name": "Genesis Lectures",
+            "url": "https://www.genesislectures.com/",
+            "logo": {
+              "@type": "ImageObject",
+              "inLanguage": "en",
+              "@id": "https://www.genesislectures.com/#/schema/logo/image/",
+              "url": "https://www.genesislectures.com/wp-content/uploads/2018/11/genesis_logo.svg",
+              "contentUrl": "https://www.genesislectures.com/wp-content/uploads/2018/11/genesis_logo.svg",
+              "width": 1,
+              "height": 1,
+              "caption": "Genesis Lectures"
+            },
+            "image": {
+              "@id": "https://www.genesislectures.com/#/schema/logo/image/"
+            },
+            "sameAs": [
+              "https://www.facebook.com/genesislectures/",
+              "https://www.instagram.com/genesis.archilectures/",
+              "https://www.youtube.com/playlist?list=PLVmIleeFlDf8-8qn5D9EbA3SjzWqVuSzT"
+            ]
+          }
+        ]
+      }
+    },
+    "_links": {
+      "self": [
+        {
+          "href": "https://www.genesislectures.com/wp-json/wp/v2/categories/1"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://www.genesislectures.com/wp-json/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://www.genesislectures.com/wp-json/wp/v2/taxonomies/category"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://www.genesislectures.com/wp-json/wp/v2/posts?categories=1"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 3,
+    "count": 4,
+    "description": "",
+    "link": "https://www.genesislectures.com/category/2016/",
+    "name": "2016",
+    "slug": "2016",
+    "taxonomy": "category",
+    "parent": 0,
+    "meta": [],
+    "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v21.1 - https://yoast.com/wordpress/plugins/seo/ -->\n<title>2016 Archivi - Genesis Lectures</title>\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://www.genesislectures.com/category/2016/\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"2016 Archivi - Genesis Lectures\" />\n<meta property=\"og:url\" content=\"https://www.genesislectures.com/category/2016/\" />\n<meta property=\"og:site_name\" content=\"Genesis Lectures\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"CollectionPage\",\"@id\":\"https://www.genesislectures.com/category/2016/\",\"url\":\"https://www.genesislectures.com/category/2016/\",\"name\":\"2016 Archivi - Genesis Lectures\",\"isPartOf\":{\"@id\":\"https://www.genesislectures.com/#website\"},\"breadcrumb\":{\"@id\":\"https://www.genesislectures.com/category/2016/#breadcrumb\"},\"inLanguage\":\"en\"},{\"@type\":\"BreadcrumbList\",\"@id\":\"https://www.genesislectures.com/category/2016/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://www.genesislectures.com/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"2016\"}]},{\"@type\":\"WebSite\",\"@id\":\"https://www.genesislectures.com/#website\",\"url\":\"https://www.genesislectures.com/\",\"name\":\"Genesis Lectures\",\"description\":\"Architecture Lectures in Pisa\",\"publisher\":{\"@id\":\"https://www.genesislectures.com/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://www.genesislectures.com/?s={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"en\"},{\"@type\":\"Organization\",\"@id\":\"https://www.genesislectures.com/#organization\",\"name\":\"Genesis Lectures\",\"url\":\"https://www.genesislectures.com/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"en\",\"@id\":\"https://www.genesislectures.com/#/schema/logo/image/\",\"url\":\"https://www.genesislectures.com/wp-content/uploads/2018/11/genesis_logo.svg\",\"contentUrl\":\"https://www.genesislectures.com/wp-content/uploads/2018/11/genesis_logo.svg\",\"width\":1,\"height\":1,\"caption\":\"Genesis Lectures\"},\"image\":{\"@id\":\"https://www.genesislectures.com/#/schema/logo/image/\"},\"sameAs\":[\"https://www.facebook.com/genesislectures/\",\"https://www.instagram.com/genesis.archilectures/\",\"https://www.youtube.com/playlist?list=PLVmIleeFlDf8-8qn5D9EbA3SjzWqVuSzT\"]}]}</script>\n<!-- / Yoast SEO plugin. -->",
+    "yoast_head_json": {
+      "title": "2016 Archivi - Genesis Lectures",
+      "robots": {
+        "index": "index",
+        "follow": "follow",
+        "max-snippet": "max-snippet:-1",
+        "max-image-preview": "max-image-preview:large",
+        "max-video-preview": "max-video-preview:-1"
+      },
+      "canonical": "https://www.genesislectures.com/category/2016/",
+      "og_locale": "en_US",
+      "og_type": "article",
+      "og_title": "2016 Archivi - Genesis Lectures",
+      "og_url": "https://www.genesislectures.com/category/2016/",
+      "og_site_name": "Genesis Lectures",
+      "twitter_card": "summary_large_image",
+      "schema": {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "CollectionPage",
+            "@id": "https://www.genesislectures.com/category/2016/",
+            "url": "https://www.genesislectures.com/category/2016/",
+            "name": "2016 Archivi - Genesis Lectures",
+            "isPartOf": {
+              "@id": "https://www.genesislectures.com/#website"
+            },
+            "breadcrumb": {
+              "@id": "https://www.genesislectures.com/category/2016/#breadcrumb"
+            },
+            "inLanguage": "en"
+          },
+          {
+            "@type": "BreadcrumbList",
+            "@id": "https://www.genesislectures.com/category/2016/#breadcrumb",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://www.genesislectures.com/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "2016"
+              }
+            ]
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://www.genesislectures.com/#website",
+            "url": "https://www.genesislectures.com/",
+            "name": "Genesis Lectures",
+            "description": "Architecture Lectures in Pisa",
+            "publisher": {
+              "@id": "https://www.genesislectures.com/#organization"
+            },
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://www.genesislectures.com/?s={search_term_string}"
+                },
+                "query-input": "required name=search_term_string"
+              }
+            ],
+            "inLanguage": "en"
+          },
+          {
+            "@type": "Organization",
+            "@id": "https://www.genesislectures.com/#organization",
+            "name": "Genesis Lectures",
+            "url": "https://www.genesislectures.com/",
+            "logo": {
+              "@type": "ImageObject",
+              "inLanguage": "en",
+              "@id": "https://www.genesislectures.com/#/schema/logo/image/",
+              "url": "https://www.genesislectures.com/wp-content/uploads/2018/11/genesis_logo.svg",
+              "contentUrl": "https://www.genesislectures.com/wp-content/uploads/2018/11/genesis_logo.svg",
+              "width": 1,
+              "height": 1,
+              "caption": "Genesis Lectures"
+            },
+            "image": {
+              "@id": "https://www.genesislectures.com/#/schema/logo/image/"
+            },
+            "sameAs": [
+              "https://www.facebook.com/genesislectures/",
+              "https://www.instagram.com/genesis.archilectures/",
+              "https://www.youtube.com/playlist?list=PLVmIleeFlDf8-8qn5D9EbA3SjzWqVuSzT"
+            ]
+          }
+        ]
+      }
+    },
+    "_links": {
+      "self": [
+        {
+          "href": "https://www.genesislectures.com/wp-json/wp/v2/categories/3"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://www.genesislectures.com/wp-json/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://www.genesislectures.com/wp-json/wp/v2/taxonomies/category"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://www.genesislectures.com/wp-json/wp/v2/posts?categories=3"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  }
+]
