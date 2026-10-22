@@ -4,7 +4,7 @@
 Uso: python3 -I export.py [cartella_output]   (default: la cartella dello script)
 Rieseguibile: i media già scaricati vengono saltati.
 """
-import base64, html, json, re, sys, urllib.error, urllib.parse, urllib.request
+import base64, html, json, os, re, sys, urllib.error, urllib.parse, urllib.request
 import xml.etree.ElementTree as ET
 from concurrent.futures import ThreadPoolExecutor
 from datetime import date
@@ -205,7 +205,25 @@ def yaml_value(v):
     return json.dumps(v, ensure_ascii=False)  # JSON è YAML valido
 
 
-def write_md(path, front, body):
+def site_path(url):
+    """'https://www.genesislectures.com/2016/x/#a' -> '2016/x'; None per i link esterni."""
+    m = re.match(r'https?://(?:www\.)?genesislectures\.com/?([^#?]*)', url)
+    return m.group(1).strip('/') if m else None
+
+
+def local_links(md, md_path, links):
+    """Il sito va offline: i link alle sue pagine diventano link relativi ai file del backup."""
+    def sub(m):
+        p = site_path(m.group(1))
+        if p not in links:
+            return m.group(0)
+        return f']({os.path.relpath(OUT / links[p], md_path.parent)}{"/" if links[p].endswith("/") else ""})'
+    md = md.replace('https://www.fsb.design', 'https://fabiosbruun.com')  # sito personale spostato
+    return re.sub(r'\]\((https?://(?:www\.)?genesislectures\.com[^)\s]*)\)', sub, md)
+
+
+def write_md(path, front, body, links):
+    body = local_links(body, path, links)
     path.parent.mkdir(parents=True, exist_ok=True)
     fm = '\n'.join(f'{k}: {yaml_value(v)}' for k, v in front.items() if v not in (None, '', []))
     path.write_text(f'---\n{fm}\n---\n\n{body}\n', encoding='utf-8')
@@ -238,6 +256,10 @@ def main():
     cats = {c['id']: c['name'] for c in raw['categories']}
     tags = {t['id']: t['name'] for t in raw['tags']}
     by_id = {p['id']: p for p in raw['posts'] + raw['pages'] + raw['uncodeblock']}
+    year_of = lambda p: next((cats[c] for c in p['categories'] if cats.get(c, '').isdigit()), p['date'][:4])
+    links = {site_path(p['link']): f'lectures/{year_of(p)}/{p["slug"]}.md' for p in raw['posts']}
+    links |= {site_path(p['link']): f'pages/{p["slug"]}.md' for p in raw['pages']}  # '' = home
+    links |= {y: f'lectures/{y}/' for y in map(year_of, raw['posts'])}  # archivi per anno
 
     # media: originali in media/AAAA/MM/, SVG salvati inline -> file, video -> solo link
     jobs, problems = [], []
@@ -281,7 +303,7 @@ def main():
     lectures = []
     for p in raw['posts']:
         cat_names = [cats[c] for c in p['categories'] if c in cats]
-        year = next((c for c in cat_names if c.isdigit()), p['date'][:4])
+        year = year_of(p)
         content, when, where = event_info(p['content']['rendered'], year)
         meta = {}
         body = render(content, '../../', M, meta)
@@ -295,7 +317,7 @@ def main():
             'background': meta.get('background'), 'video': meta.get('video'), 'gallery': meta.get('gallery'),
         }
         path = OUT / 'lectures' / year / f'{p["slug"]}.md'
-        write_md(path, front, f'# {front["title"]}\n\n{body}')
+        write_md(path, front, f'# {front["title"]}\n\n{body}', links)
         lectures.append((front, path))
 
     for kind, folder in (('pages', 'pages'), ('uncodeblock', 'blocks')):
@@ -309,7 +331,14 @@ def main():
                 'cover': '../' + media_path(fm) if fm and media_path(fm) else None,
                 'gallery': meta.get('gallery'),
             }
-            write_md(OUT / folder / f'{p["slug"]}.md', front, f'# {front["title"]}\n\n{body}')
+            write_md(OUT / folder / f'{p["slug"]}.md', front, f'# {front["title"]}\n\n{body}', links)
+
+    # controllo: ogni link locale (immagini, frontmatter, link interni) deve puntare a un file esistente
+    for md in OUT.glob('[lpb]*/**/*.md'):
+        t = md.read_text(encoding='utf-8')
+        for p in re.findall(r'\]\(<?([^)>]+?)>?\)', t) + re.findall(r'"(\.\./[^"]+)"', t):
+            if not re.match(r'https?:|mailto:', p) and not (md.parent / p).exists():
+                problems.append(f'link rotto in {md.relative_to(OUT)}: {p}')
 
     # immagini usate dal sito ma fuori dalla media library (slider, opzioni del tema)
     have = {str(d.relative_to(OUT)) for _, d in jobs}
