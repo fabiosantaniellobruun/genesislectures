@@ -52,6 +52,25 @@ Testi (team di Genesis Lectures) e grafiche (Fabio Santaniello Bruun) sono CC BY
 - [Ricardo Bak Gordon](lectures/2016/ricardo-bak-gordon.md) — Friday 29 April, h 5.00 pm — Cinema Nuovo, Pisa
 - [Dietmar Eberle](lectures/2016/dietmar-eberle.md) — Friday 6 May, h 5.00 pm — Aula Magna, Polo Carmignani, Pisa
 
+## Pagine
+
+- [Privacy Policy](pages/privacy-policy.md)
+- [Archive](pages/archive.md)
+- [About Genesis Lectures](pages/about.md)
+- [Venue](pages/venue.md)
+- [Genesis Lectures | 5th edition | 2020](pages/gl2k19.md)
+
+## Blocchi
+
+- [Venue](blocks/venue.md)
+- [Search results](blocks/search-results.md)
+- [404](blocks/404-2.md)
+- [Archivio Articoli](blocks/archivio-articoli.md)
+- [Footer boxes](blocks/footer-boxes-2.md)
+- [Footer carousel](blocks/footer-carousel.md)
+- [Footer](blocks/footer.md)
+- [Header Home](blocks/41-2.md)
+
 ## Immagini fuori dalla media library
 
 Usate nel sito (slider, opzioni del tema) ma non registrate come media:

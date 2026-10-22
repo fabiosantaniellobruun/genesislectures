@@ -14,7 +14,7 @@ url: "https://www.genesislectures.com/2020/bergmeisterwolf/"
 wp_id: 923
 cover: "../../media/2020/02/Bergmeisterwolf.jpg"
 background: "../../media/2020/02/bergmeisterwolf-out.svg"
-gallery: ["../../media/2020/02/Bergmeisterwolf-Casa-per-le-vacanze-f-sul-Lago-di-Garda-Toscolano-Maderno-Italy.-©-Gustav-Willeit-1.jpg", "../../media/2020/02/Bergmeisterwolf-Casa-per-le-vacanze-f-sul-Lago-di-Garda-Toscolano-Maderno-Italy.-©-Gustav-Willeit.jpg", "../../media/2020/02/Bergmeisterwolf-Casa-per-le-vacanze-f-sul-Lago-di-Garda-Toscolano-Maderno-Italy.-©-Gustav-Willeit2.jpg", "../../media/2020/02/Bergmeisterwolf-Casa-per-le-vacanze-f-sul-Lago-di-Garda-Toscolano-Maderno-Italy.-©-Gustav-Willeit3.jpg", "../../media/2020/02/Bergmeisterwolf-Laboratorio-di-scultura-in-legno-Pontives-Italy.-©-Günter-Richard-Wett.jpg", "../../media/2020/02/Bergmeisterwolf-Laboratorio-di-scultura-in-legno-Pontives-Italy.-©-Günter-Richard-Wett1.jpg", "../../media/2020/02/Bergmeisterwolf-Laboratorio-di-scultura-in-legno-Pontives-Italy.-©-Günter-Richard-Wett2.jpg", "../../media/2020/02/Bergmeisterwolf-Laboratorio-di-scultura-in-legno-Pontives-Italy.-©-Lukas-Schaller.jpg", "../../media/2020/02/Bergmeisterwolf-Pacherhof-new-cellar-Varna-Italy.-©-Gustav-Willeit-3.jpg", "../../media/2020/02/Bergmeisterwolf-Pacherhof-new-cellar-Varna-Italy.-©-Gustav-Willeit.jpg", "../../media/2020/02/Bergmeisterwolf-Pacherhof-new-cellar-Varna-Italy.-©-Gustav-Willeit1.jpg", "../../media/2020/02/Bergmeisterwolf-Pacherhof-new-cellar-Varna-Italy.-©-Gustav-Willeit2-e1582621372199.jpg", "../../media/2020/02/Bergmeisterwolf-Vigili-del-fuoco-di-Magrè-Magrè-sulla-strada-del-vino-Italy.-©-Gustav-Willeit-2.jpg", "../../media/2020/02/Bergmeisterwolf-Vigili-del-fuoco-di-Magrè-Magrè-sulla-strada-del-vino-Italy.-©-Gustav-Willeit.jpg"]
+gallery: ["../../media/2020/02/Bergmeisterwolf-Casa-per-le-vacanze-f-sul-Lago-di-Garda-Toscolano-Maderno-Italy.-©-Gustav-Willeit-1.jpg", "../../media/2020/02/Bergmeisterwolf-Casa-per-le-vacanze-f-sul-Lago-di-Garda-Toscolano-Maderno-Italy.-©-Gustav-Willeit.jpg", "../../media/2020/02/Bergmeisterwolf-Casa-per-le-vacanze-f-sul-Lago-di-Garda-Toscolano-Maderno-Italy.-©-Gustav-Willeit2.jpg", "../../media/2020/02/Bergmeisterwolf-Casa-per-le-vacanze-f-sul-Lago-di-Garda-Toscolano-Maderno-Italy.-©-Gustav-Willeit3.jpg", "../../media/2020/02/Bergmeisterwolf-Laboratorio-di-scultura-in-legno-Pontives-Italy.-©-Günter-Richard-Wett.jpg", "../../media/2020/02/Bergmeisterwolf-Laboratorio-di-scultura-in-legno-Pontives-Italy.-©-Günter-Richard-Wett1.jpg", "../../media/2020/02/Bergmeisterwolf-Laboratorio-di-scultura-in-legno-Pontives-Italy.-©-Günter-Richard-Wett2.jpg", "../../media/2020/02/Bergmeisterwolf-Laboratorio-di-scultura-in-legno-Pontives-Italy.-©-Lukas-Schaller.jpg", "../../media/2020/02/Bergmeisterwolf-Pacherhof-new-cellar-Varna-Italy.-©-Gustav-Willeit-3.jpg", "../../media/2020/02/Bergmeisterwolf-Pacherhof-new-cellar-Varna-Italy.-©-Gustav-Willeit.jpg", "../../media/2020/02/Bergmeisterwolf-Pacherhof-new-cellar-Varna-Italy.-©-Gustav-Willeit1.jpg", "../../media/2020/02/Bergmeisterwolf-Pacherhof-new-cellar-Varna-Italy.-©-Gustav-Willeit2-e1582621372199.jpg", "../../media/2020/02/Bergmeisterwolf-Vigili-del-fuoco-di-Magrè-Magrè-sulla-strada-del-vino-Italy.-©-Gustav-Willeit-2.jpg", "../../media/2020/02/Bergmeisterwolf-Vigili-del-fuoco-di-Magrè-Magrè-sulla-strada-del-vino-Italy.-©-Gustav-Willeit.jpg"]
 ---
 
 # Bergmeisterwolf
@@ -37,11 +37,11 @@ The singularity of each intervention results from the measured pursue for a new 
 
 ![Bergmeisterwolf, Casa per le vacanze f sul Lago di Garda – Toscolano Maderno (Italy). © Gustav Willeit](../../media/2020/02/Bergmeisterwolf-Casa-per-le-vacanze-f-sul-Lago-di-Garda-Toscolano-Maderno-Italy.-©-Gustav-Willeit3.jpg)
 
-![Bergmeisterwolf, Laboratorio di scultura in legno – Pontives (Italy). © Günter Richard Wett](../../media/2020/02/Bergmeisterwolf-Laboratorio-di-scultura-in-legno-Pontives-Italy.-©-Günter-Richard-Wett.jpg)
+![Bergmeisterwolf, Laboratorio di scultura in legno – Pontives (Italy). © Günter Richard Wett](../../media/2020/02/Bergmeisterwolf-Laboratorio-di-scultura-in-legno-Pontives-Italy.-©-Günter-Richard-Wett.jpg)
 
-![Bergmeisterwolf, Laboratorio di scultura in legno – Pontives (Italy). © Günter Richard Wett](../../media/2020/02/Bergmeisterwolf-Laboratorio-di-scultura-in-legno-Pontives-Italy.-©-Günter-Richard-Wett1.jpg)
+![Bergmeisterwolf, Laboratorio di scultura in legno – Pontives (Italy). © Günter Richard Wett](../../media/2020/02/Bergmeisterwolf-Laboratorio-di-scultura-in-legno-Pontives-Italy.-©-Günter-Richard-Wett1.jpg)
 
-![Bergmeisterwolf, Laboratorio di scultura in legno – Pontives (Italy). © Günter Richard Wett](../../media/2020/02/Bergmeisterwolf-Laboratorio-di-scultura-in-legno-Pontives-Italy.-©-Günter-Richard-Wett2.jpg)
+![Bergmeisterwolf, Laboratorio di scultura in legno – Pontives (Italy). © Günter Richard Wett](../../media/2020/02/Bergmeisterwolf-Laboratorio-di-scultura-in-legno-Pontives-Italy.-©-Günter-Richard-Wett2.jpg)
 
 ![Bergmeisterwolf, Laboratorio di scultura in legno – Pontives (Italy). © Günter Richard Wett](../../media/2020/02/Bergmeisterwolf-Laboratorio-di-scultura-in-legno-Pontives-Italy.-©-Lukas-Schaller.jpg)
 
@@ -53,6 +53,6 @@ The singularity of each intervention results from the measured pursue for a new 
 
 ![Bergmeisterwolf, Pacherhof new cellar – Varna (Italy). © Gustav Willeit](../../media/2020/02/Bergmeisterwolf-Pacherhof-new-cellar-Varna-Italy.-©-Gustav-Willeit2-e1582621372199.jpg)
 
-![Bergmeisterwolf, Vigili del fuoco di Magrè – Magrè sulla strada del vino (Italy). © Gustav Willeit](../../media/2020/02/Bergmeisterwolf-Vigili-del-fuoco-di-Magrè-Magrè-sulla-strada-del-vino-Italy.-©-Gustav-Willeit-2.jpg)
+![Bergmeisterwolf, Vigili del fuoco di Magrè – Magrè sulla strada del vino (Italy). © Gustav Willeit](../../media/2020/02/Bergmeisterwolf-Vigili-del-fuoco-di-Magrè-Magrè-sulla-strada-del-vino-Italy.-©-Gustav-Willeit-2.jpg)
 
-![Bergmeisterwolf, Vigili del fuoco di Magrè – Magrè sulla strada del vino (Italy). © Gustav Willeit](../../media/2020/02/Bergmeisterwolf-Vigili-del-fuoco-di-Magrè-Magrè-sulla-strada-del-vino-Italy.-©-Gustav-Willeit.jpg)
+![Bergmeisterwolf, Vigili del fuoco di Magrè – Magrè sulla strada del vino (Italy). © Gustav Willeit](../../media/2020/02/Bergmeisterwolf-Vigili-del-fuoco-di-Magrè-Magrè-sulla-strada-del-vino-Italy.-©-Gustav-Willeit.jpg)

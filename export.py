@@ -4,7 +4,7 @@
 Uso: python3 -I export.py [cartella_output]   (default: la cartella dello script)
 Rieseguibile: i media già scaricati vengono saltati.
 """
-import base64, html, json, os, re, sys, urllib.error, urllib.parse, urllib.request
+import base64, html, json, os, re, sys, unicodedata, urllib.error, urllib.parse, urllib.request
 import xml.etree.ElementTree as ET
 from concurrent.futures import ThreadPoolExecutor
 from datetime import date
@@ -128,15 +128,25 @@ def attrs(s):
     return dict(re.findall(r'(\w+)=["“”″]([^"“”″]*)["“”″]', html.unescape(s)))
 
 
+def nfc(s):
+    # WordPress ha nomi caricati da Mac in NFD; git e GitHub Pages li vogliono in NFC
+    return unicodedata.normalize('NFC', s)
+
+
+def upload_path(x):
+    """Percorso dell'originale in wp-content/uploads, esattamente come sta sul server."""
+    p = urllib.parse.unquote(x['source_url'].split('/wp-content/uploads/', 1)[1])
+    orig = (x.get('media_details') or {}).get('original_image')  # file "-scaled": prendi l'originale
+    return p.rsplit('/', 1)[0] + '/' + orig if orig else p
+
+
 def media_path(x):
     """Percorso locale (relativo a OUT) dell'originale, None per i video."""
     if x['mime_type'] == 'oembed/svg':
         return f'media/svg/{x["slug"]}.svg'
     if x['mime_type'].startswith('oembed'):
         return None
-    p = urllib.parse.unquote(x['source_url'].split('/wp-content/uploads/', 1)[1])
-    orig = (x.get('media_details') or {}).get('original_image')  # file "-scaled": prendi l'originale
-    return 'media/' + (p.rsplit('/', 1)[0] + '/' + orig if orig else p)
+    return 'media/' + nfc(upload_path(x))
 
 
 def render(c, rel, M, meta):
@@ -275,10 +285,9 @@ def main():
             (OUT / p).parent.mkdir(parents=True, exist_ok=True)
             (OUT / p).write_text(svg, encoding='utf-8')
         elif p:
-            jobs.append((SITE + '/wp-content/uploads/' + p.removeprefix('media/'), OUT / p))
-            if re.search(r'-e\d{13}(?=\.\w+$)', p):  # immagine modificata in WP: tieni anche il file caricato
-                p = re.sub(r'-e\d{13}(?=\.\w+$)', '', p)
-                jobs.append((SITE + '/wp-content/uploads/' + p.removeprefix('media/'), OUT / p))
+            # immagine modificata in WP (-e<timestamp>): tieni anche il file caricato
+            for u in {upload_path(x), re.sub(r'-e\d{13}(?=\.\w+$)', '', upload_path(x))}:
+                jobs.append((SITE + '/wp-content/uploads/' + u, OUT / 'media' / nfc(u)))
     with ThreadPoolExecutor(8) as ex:
         results = list(ex.map(download, jobs))
     problems += [f'download fallito ({code}): {d.relative_to(OUT)}' for d, st, code in results if st == 'error']
@@ -337,7 +346,8 @@ def main():
     for md in OUT.glob('[lpb]*/**/*.md'):
         t = md.read_text(encoding='utf-8')
         for p in re.findall(r'\]\(<?([^)>]+?)>?\)', t) + re.findall(r'"(\.\./[^"]+)"', t):
-            if not re.match(r'https?:|mailto:', p) and not (md.parent / p).exists():
+            # macOS trova il file anche se la normalizzazione Unicode è diversa, GitHub Pages no
+            if not re.match(r'https?:|mailto:', p) and (p != nfc(p) or not (md.parent / p).exists()):
                 problems.append(f'link rotto in {md.relative_to(OUT)}: {p}')
 
     # immagini usate dal sito ma fuori dalla media library (slider, opzioni del tema)
@@ -348,9 +358,9 @@ def main():
         for u in re.findall(r'wp-content/uploads/([^"\'\s)?]+\.(?:jpe?g|png|gif|svg|webp|mp4|pdf))', h, re.I):
             u = urllib.parse.unquote(html.unescape(u))
             base = re.sub(r'-scaled(?=\.\w+$)', '', re.sub(r'(-uai)?-\d+x\d+(?=\.\w+$)', '', u))
-            if 'media/' + base not in have and 'media/' + u not in have:
+            if 'media/' + nfc(base) not in have and 'media/' + nfc(u) not in have:
                 extra.add(base)
-    extra_res = list(ThreadPoolExecutor(8).map(download, [(SITE + '/wp-content/uploads/' + u, OUT / 'media' / u) for u in sorted(extra)]))
+    extra_res = list(ThreadPoolExecutor(8).map(download, [(SITE + '/wp-content/uploads/' + u, OUT / 'media' / nfc(u)) for u in sorted(extra)]))
     problems += [f'extra non scaricabile ({c}): {d.relative_to(OUT)}' for d, st, c in extra_res if st == 'error']
     extras_ok = [str(d.relative_to(OUT)) for d, st, _ in extra_res if st != 'error']
 
@@ -386,6 +396,8 @@ def main():
         # indice della cartella: su GitHub si vede aprendo la cartella, su Pages è la pagina dell'anno
         (OUT / 'lectures' / str(y) / 'README.md').write_text(
             f'# {heading}\n\n' + '\n'.join(f'- {t}({p.name}){i}' for t, p, i in year_lines) + '\n', encoding='utf-8')
+    for title, kind, folder in (('Pagine', 'pages', 'pages'), ('Blocchi', 'uncodeblock', 'blocks')):
+        lines += [f'## {title}', ''] + [f'- [{text(p["title"]["rendered"])}]({folder}/{p["slug"]}.md)' for p in raw[kind]] + ['']
     if extras_ok:
         lines += ['## Immagini fuori dalla media library', '', 'Usate nel sito (slider, opzioni del tema) ma non registrate come media:', '']
         lines += [f'- `{e}`' for e in extras_ok] + ['']
