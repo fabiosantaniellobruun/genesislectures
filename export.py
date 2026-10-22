@@ -344,7 +344,7 @@ def main():
              '- `raw/`: risposte grezze dell\'API (contenuti originali con gli shortcode), come rete di sicurezza.', '',
              '## Licenza', '',
              'Testi (team di Genesis Lectures) e grafiche (Fabio Santaniello Bruun) sono CC BY-NC 4.0: ripubblicabili '
-             'citando la fonte, non per scopi commerciali.Le immagini dei progetti restano © degli studi e dei fotografi, `export.py` è MIT. '
+             'citando la fonte, non per scopi commerciali. Le immagini dei progetti restano © degli studi e dei fotografi, `export.py` è MIT. '
              'Dettagli in [LICENSE.md](LICENSE.md).', '',
              '## Conferenze', '']
     for y in sorted({f['year'] for f, _ in lectures}, reverse=True):
