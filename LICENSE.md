@@ -1,17 +1,17 @@
 # Licenze
 
-Questo archivio raccoglie materiali di autori diversi, con licenze diverse. Chi li riusa deve sempre citare la fonte come indicato qui sotto.
+Questo archivio raccoglie materiali di autori diversi, con licenze diverse. Chi li riusa deve sempre citare la fonte come indicato qui sotto. Testi, grafiche e immagini non possono essere usati per scopi commerciali senza permesso.
 
-## Testi — CC BY 4.0
+## Testi — CC BY-NC 4.0
 
-I testi (i file `.md` in `lectures/`, `pages/` e `blocks/`) sono del team di Genesis Lectures e sono distribuiti con licenza [Creative Commons Attribuzione 4.0 Internazionale (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/deed.it).
+I testi (i file `.md` in `lectures/`, `pages/` e `blocks/`) sono del team di Genesis Lectures e sono distribuiti con licenza [Creative Commons Attribuzione - Non commerciale 4.0 Internazionale (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/deed.it).
 
-Si possono copiare, ripubblicare e adattare, citando la fonte, ad esempio:
+Si possono copiare, ripubblicare e adattare per scopi non commerciali, citando la fonte, ad esempio:
 «Testo: Genesis Lectures — genesislectures.com», e indicando se il testo è stato modificato.
 
-## Poster e grafiche — CC BY 4.0
+## Poster e grafiche — CC BY-NC 4.0
 
-Poster, copertine, logo e grafiche di comunicazione di Genesis Lectures presenti in `media/` sono © Fabio Santaniello Bruun ([fsb.design](https://www.fsb.design)) e sono distribuiti con la stessa licenza [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.it).
+Poster, copertine, logo e grafiche di comunicazione di Genesis Lectures presenti in `media/` sono © Fabio Santaniello Bruun ([fsb.design](https://www.fsb.design)) e sono distribuiti con la stessa licenza [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.it).
 
 Citazione, ad esempio: «Grafica: Fabio Santaniello Bruun per Genesis Lectures».
 

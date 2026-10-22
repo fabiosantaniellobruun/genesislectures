@@ -17,7 +17,7 @@ Rigenerabile con `python3 -I export.py`.
 
 ## Licenza
 
-Testi (team di Genesis Lectures) e grafiche (Fabio Santaniello Bruun) sono CC BY 4.0: ripubblicabili citando la fonte. Le immagini dei progetti restano © degli studi e dei fotografi, `export.py` è MIT. Dettagli in [LICENSE.md](LICENSE.md).
+Testi (team di Genesis Lectures) e grafiche (Fabio Santaniello Bruun) sono CC BY-NC 4.0: ripubblicabili citando la fonte, non per scopi commerciali. Le immagini dei progetti restano © degli studi e dei fotografi, `export.py` è MIT. Dettagli in [LICENSE.md](LICENSE.md).
 
 ## Conferenze
 
