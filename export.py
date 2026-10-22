@@ -377,11 +377,15 @@ def main():
              'Dettagli in [LICENSE.md](LICENSE.md).', '',
              '## Conferenze', '']
     for y in sorted({f['year'] for f, _ in lectures}, reverse=True):
-        lines.append(f'### {y}' + (' — edizione annullata (COVID-19)' if str(y) in CANCELLED else '') + '\n')
+        heading = f'{y}' + (' — edizione annullata (COVID-19)' if str(y) in CANCELLED else '')
+        year_lines = []
         for f, path in sorted((l for l in lectures if l[0]['year'] == y), key=lambda l: l[0]['published']):
             info = ' — '.join(s for s in (f['when'] or f['excerpt'], f['where']) if s)
-            lines.append(f'- [{f["title"]}]({path.relative_to(OUT)})' + (f' — {info}' if info else ''))
-        lines.append('')
+            year_lines.append((f'[{f["title"]}]', path, f' — {info}' if info else ''))
+        lines += [f'### {heading}', ''] + [f'- {t}({p.relative_to(OUT)}){i}' for t, p, i in year_lines] + ['']
+        # indice della cartella: su GitHub si vede aprendo la cartella, su Pages è la pagina dell'anno
+        (OUT / 'lectures' / str(y) / 'README.md').write_text(
+            f'# {heading}\n\n' + '\n'.join(f'- {t}({p.name}){i}' for t, p, i in year_lines) + '\n', encoding='utf-8')
     if extras_ok:
         lines += ['## Immagini fuori dalla media library', '', 'Usate nel sito (slider, opzioni del tema) ma non registrate come media:', '']
         lines += [f'- `{e}`' for e in extras_ok] + ['']

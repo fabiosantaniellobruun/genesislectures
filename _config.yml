@@ -1,0 +1,4 @@
+# GitHub Pages (Jekyll): i file .md diventano pagine, README.md è la home
+title: Genesis Lectures
+description: Architecture Lectures in Pisa — archivio delle edizioni 2016–2020
+theme: jekyll-theme-minimal
