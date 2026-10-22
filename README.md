@@ -58,7 +58,7 @@ Testi (team di Genesis Lectures) e grafiche (Fabio Santaniello Bruun) sono CC BY
 - [Archive](pages/archive.md)
 - [About Genesis Lectures](pages/about.md)
 - [Venue](pages/venue.md)
-- [Genesis Lectures | 5th edition | 2020](pages/gl2k19.md)
+- [Genesis Lectures \| 5th edition \| 2020](pages/gl2k19.md)
 
 ## Blocchi
 
