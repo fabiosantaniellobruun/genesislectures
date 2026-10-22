@@ -7,7 +7,7 @@ Questo archivio raccoglie materiali di autori diversi, con licenze diverse. Chi 
 I testi (i file `.md` in `lectures/`, `pages/` e `blocks/`) sono del team di Genesis Lectures e sono distribuiti con licenza [Creative Commons Attribuzione - Non commerciale 4.0 Internazionale (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/deed.it).
 
 Si possono copiare, ripubblicare e adattare per scopi non commerciali, citando la fonte, ad esempio:
-«Testo: Genesis Lectures — genesislectures.com», e indicando se il testo è stato modificato.
+«Testo: Genesis Lectures», e indicando se il testo è stato modificato.
 
 ## Poster e grafiche — CC BY-NC 4.0
 
