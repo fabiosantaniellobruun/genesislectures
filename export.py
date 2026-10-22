@@ -342,6 +342,10 @@ def main():
              'senza le miniature generate da WordPress). `media/svg/`: loghi che il tema salvava come SVG inline.',
              '- `media.json`: metadati di ogni media (titolo, alt, didascalia, data, contenuto a cui è collegato, dimensioni).',
              '- `raw/`: risposte grezze dell\'API (contenuti originali con gli shortcode), come rete di sicurezza.', '',
+             '## Licenza', '',
+             'Testi (team di Genesis Lectures) e grafiche (Fabio Santaniello Bruun) sono CC BY 4.0: ripubblicabili '
+             'citando la fonte. Le immagini dei progetti restano © degli studi e dei fotografi, `export.py` è MIT. '
+             'Dettagli in [LICENSE.md](LICENSE.md).', '',
              '## Conferenze', '']
     for y in sorted({f['year'] for f, _ in lectures}, reverse=True):
         lines.append(f'### {y}' + (' — edizione annullata (COVID-19)' if str(y) in CANCELLED else '') + '\n')
