@@ -63,7 +63,7 @@ Silvia Batini
 
 ##### AD+Design
 
-[Fabio Santaniello Bruun](https://www.fsb.design)
+[Fabio Santaniello Bruun](https://fabiosbruun.com)
 
 ##### Colophon
 

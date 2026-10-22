@@ -11,7 +11,7 @@ Si possono copiare, ripubblicare e adattare per scopi non commerciali, citando l
 
 ## Poster e grafiche — CC BY-NC 4.0
 
-Poster, copertine, logo e grafiche di comunicazione di Genesis Lectures presenti in `media/` sono © Fabio Santaniello Bruun ([fsb.design](https://www.fsb.design)) e sono distribuiti con la stessa licenza [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.it).
+Poster, copertine, logo e grafiche di comunicazione di Genesis Lectures presenti in `media/` sono © Fabio Santaniello Bruun ([fabiosbruun.com](https://fabiosbruun.com)) e sono distribuiti con la stessa licenza [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.it).
 
 Citazione, ad esempio: «Grafica: Fabio Santaniello Bruun per Genesis Lectures».
 
