@@ -1,9 +1,13 @@
+<p align="center">
+  <img src="docs/cover.jpg" alt="Genesis Lectures: il logo «genesis» in bianco su fondo rosso, «Architecture Lectures in Pisa», archivio 2016–2020 e i nomi degli ospiti" width="880">
+</p>
+
 # Genesis Lectures — backup
 
 Architecture Lectures in Pisa
 
 Backup di https://www.genesislectures.com fatto il 2026-10-21 dalla REST API di WordPress (tema Uncode + WPBakery).
-Rigenerabile con `python3 -I export.py`.
+Rigenerabile con `python3 -I export.py`. Si sfoglia anche online: [fabiosantaniellobruun.github.io/genesislectures](https://fabiosantaniellobruun.github.io/genesislectures/).
 
 ## Struttura
 
